@@ -1,0 +1,847 @@
+id,published,title,authors,paperId
+http://arxiv.org/abs/2304.02642v1,2023-04-05T17:59:32Z,"Taming Encoder for Zero Fine-tuning Image Customization with
+  Text-to-Image Diffusion Models","['Xuhui Jia', 'Yang Zhao', 'Kelvin C. K. Chan', 'Yandong Li', 'Han Zhang', 'Boqing Gong', 'Tingbo Hou', 'Huisheng Wang', 'Yu-Chuan Su']",arXiv:2304.02642
+http://arxiv.org/abs/2304.02192v1,2023-04-05T02:13:42Z,A Diffusion-based Method for Multi-turn Compositional Image Generation,"['Chao Wang', 'Xiaoyu Yang', 'Jinmiao Huang', 'Kevin Ferreira']",arXiv:2304.02192
+http://arxiv.org/abs/2304.02051v1,2023-04-04T18:03:04Z,"Multimodal Garment Designer: Human-Centric Latent Diffusion Models for
+  Fashion Image Editing","['Alberto Baldrati', 'Davide Morelli', 'Giuseppe Cartella', 'Marcella Cornia', 'Marco Bertini', 'Rita Cucchiara']",arXiv:2304.02051
+http://arxiv.org/abs/2304.01994v2,2023-04-04T17:52:49Z,"Waving Goodbye to Low-Res: A Diffusion-Wavelet Approach for Image
+  Super-Resolution","['Brian Moser', 'Stanislav Frolov', 'Federico Raue', 'Sebastian Palacio', 'Andreas Dengel']",arXiv:2304.01994
+http://arxiv.org/abs/2304.01900v1,2023-04-04T15:49:01Z,"PODIA-3D: Domain Adaptation of 3D Generative Model Across Large Domain
+  Gap Using Pose-Preserved Text-to-Image Diffusion","['Gwanghyun Kim', 'Ji Ha Jang', 'Se Young Chun']",arXiv:2304.01900
+http://arxiv.org/abs/2304.01888v1,2023-04-04T15:41:11Z,"Quantitative perfusion and water transport time model from multi b-value
+  diffusion magnetic resonance imaging validated against neutron capture
+  microspheres","['M. Liu', 'N. Saadat', 'Y. Jeong', 'S. Roth', 'M. Niekrasz', 'M. Giurcanu', 'T. Carroll', 'G. Christoforidis']",arXiv:2304.01888
+http://arxiv.org/abs/2304.01247v1,2023-04-03T16:52:43Z,Generative Diffusion Prior for Unified Image Restoration and Enhancement,"['Ben Fei', 'Zhaoyang Lyu', 'Liang Pan', 'Junzhe Zhang', 'Weidong Yang', 'Tianyue Luo', 'Bo Zhang', 'Bo Dai']",arXiv:2304.01247
+http://arxiv.org/abs/2304.01053v1,2023-04-03T15:00:06Z,"ViT-DAE: Transformer-driven Diffusion Autoencoder for Histopathology
+  Image Analysis","['Xuan Xu', 'Saarthak Kapse', 'Rajarsi Gupta', 'Prateek Prasanna']",arXiv:2304.01053
+http://arxiv.org/abs/2303.17905v1,2023-03-31T09:03:18Z,3D-aware Image Generation using 2D Diffusion Models,"['Jianfeng Xiang', 'Jiaolong Yang', 'Binbin Huang', 'Xin Tong']",arXiv:2303.17905
+http://arxiv.org/abs/2303.17599v1,2023-03-30T17:59:25Z,Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models,"['Wen Wang', 'Kangyang Xie', 'Zide Liu', 'Hao Chen', 'Yue Cao', 'Xinlong Wang', 'Chunhua Shen']",arXiv:2303.17599
+http://arxiv.org/abs/2303.17591v1,2023-03-30T17:58:11Z,Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models,"['Eric Zhang', 'Kai Wang', 'Xingqian Xu', 'Zhangyang Wang', 'Humphrey Shi']",arXiv:2303.17591
+http://arxiv.org/abs/2303.17546v1,2023-03-30T17:13:56Z,"PAIR-Diffusion: Object-Level Image Editing with Structure-and-Appearance
+  Paired Diffusion Models","['Vidit Goel', 'Elia Peruzzo', 'Yifan Jiang', 'Dejia Xu', 'Nicu Sebe', 'Trevor Darrell', 'Zhangyang Wang', 'Humphrey Shi']",arXiv:2303.17546
+http://arxiv.org/abs/2303.17189v1,2023-03-30T06:56:12Z,"LayoutDiffusion: Controllable Diffusion Model for Layout-to-image
+  Generation","['Guangcong Zheng', 'Xianpan Zhou', 'Xuewei Li', 'Zhongang Qi', 'Ying Shan', 'Xi Li']",arXiv:2303.17189
+http://arxiv.org/abs/2303.17155v1,2023-03-30T05:25:20Z,Discriminative Class Tokens for Text-to-Image Diffusion Models,"['Idan Schwartz', 'Vésteinn Snæbjarnarson', 'Sagie Benaim', 'Hila Chefer', 'Ryan Cotterell', 'Lior Wolf', 'Serge Belongie']",arXiv:2303.17155
+http://arxiv.org/abs/2303.16765v2,2023-03-29T14:57:54Z,"MDP: A Generalized Framework for Text-Guided Image Editing by
+  Manipulating the Diffusion Path","['Qian Wang', 'Biao Zhang', 'Michael Birsak', 'Peter Wonka']",arXiv:2303.16765
+http://arxiv.org/abs/2303.16509v1,2023-03-29T07:35:56Z,HOLODIFFUSION: Training a 3D Diffusion Model using 2D Images,"['Animesh Karnewar', 'Andrea Vedaldi', 'David Novotny', 'Niloy Mitra']",arXiv:2303.16509
+http://arxiv.org/abs/2303.16112v1,2023-03-28T16:26:39Z,"Cellular EXchange Imaging (CEXI): Evaluation of a diffusion model
+  including water exchange in cells using numerical phantoms of permeable
+  spheres","['Rémy Gardier', 'Juan Luis Villarreal Haro', 'Erick J. Canales-Rodriguez', 'Ileana O. Jelescu', 'Gabriel Girard', 'Jonathan Rafael-Patino', 'Jean-Philippe Thiran']",arXiv:2303.16112
+http://arxiv.org/abs/2303.15770v1,2023-03-28T07:13:11Z,"DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image
+  Synthesis with Sparse-view Measurement Embedding","['Xiaoyue Li', 'Kai Shang', 'Gaoang Wang', 'Mark D. Butala']",arXiv:2303.15770
+http://arxiv.org/abs/2303.15288v1,2023-03-27T15:10:19Z,Diffusion Models for Memory-efficient Processing of 3D Medical Images,"['Florentin Bieder', 'Julia Wolleb', 'Alicia Durrer', 'Robin Sandkühler', 'Philippe C. Cattin']",arXiv:2303.15288
+http://arxiv.org/abs/2303.15233v1,2023-03-27T14:15:17Z,Text-to-Image Diffusion Models are Zero-Shot Classifiers,"['Kevin Clark', 'Priyank Jaini']",arXiv:2303.15233
+http://arxiv.org/abs/2303.14389v1,2023-03-25T07:47:21Z,Masked Diffusion Transformer is a Strong Image Synthesizer,"['Shanghua Gao', 'Pan Zhou', 'Ming-Ming Cheng', 'Shuicheng Yan']",arXiv:2303.14389
+http://arxiv.org/abs/2303.14184v2,2023-03-24T17:54:22Z,"Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion
+  Prior","['Junshu Tang', 'Tengfei Wang', 'Bo Zhang', 'Ting Zhang', 'Ran Yi', 'Lizhuang Ma', 'Dong Chen']",arXiv:2303.14184
+http://arxiv.org/abs/2303.14139v1,2023-03-24T16:41:42Z,"MindDiffuser: Controlled Image Reconstruction from Human Brain Activity
+  with Semantic and Structural Diffusion","['Yizhuo Lu', 'Changde Du', 'Dianpeng Wang', 'Huiguang He']",arXiv:2303.14139
+http://arxiv.org/abs/2303.13744v1,2023-03-24T01:54:26Z,Conditional Image-to-Video Generation with Latent Flow Diffusion Models,"['Haomiao Ni', 'Changhao Shi', 'Kai Li', 'Sharon X. Huang', 'Martin Renqiang Min']",arXiv:2303.13744
+http://arxiv.org/abs/2303.13610v1,2023-03-23T18:50:18Z,"Artificial-intelligence-based molecular classification of diffuse
+  gliomas using rapid, label-free optical imaging","['Todd C. Hollon', 'Cheng Jiang', 'Asadur Chowdury', 'Mustafa Nasir-Moin', 'Akhil Kondepudi', 'Alexander Aabedi', 'Arjun Adapa', 'Wajd Al-Holou', 'Jason Heth', 'Oren Sagher', 'Pedro Lowenstein', 'Maria Castro', 'Lisa Irina Wadiura', 'Georg Widhalm', 'Volker Neuschmelting', 'David Reinecke', 'Niklas von Spreckelsen', 'Mitchel S. Berger', 'Shawn L. Hervey-Jumper', 'John G. Golfinos', 'Matija Snuderl', 'Sandra Camelo-Piragua', 'Christian Freudiger', 'Honglak Lee', 'Daniel A. Orringer']",arXiv:2303.13610
+http://arxiv.org/abs/2303.13516v1,2023-03-23T17:59:42Z,Ablating Concepts in Text-to-Image Diffusion Models,"['Nupur Kumari', 'Bingliang Zhang', 'Sheng-Yu Wang', 'Eli Shechtman', 'Richard Zhang', 'Jun-Yan Zhu']",arXiv:2303.13516
+http://arxiv.org/abs/2303.13495v1,2023-03-23T17:56:10Z,ReVersion: Diffusion-Based Relation Inversion from Images,"['Ziqi Huang', 'Tianxing Wu', 'Yuming Jiang', 'Kelvin C. K. Chan', 'Ziwei Liu']",arXiv:2303.13495
+http://arxiv.org/abs/2303.13439v1,2023-03-23T17:01:59Z,"Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video
+  Generators","['Levon Khachatryan', 'Andranik Movsisyan', 'Vahram Tadevosyan', 'Roberto Henschel', 'Zhangyang Wang', 'Shant Navasardyan', 'Humphrey Shi']",arXiv:2303.13439
+http://arxiv.org/abs/2303.13430v1,2023-03-23T16:50:19Z,"Medical diffusion on a budget: textual inversion for medical image
+  generation","['Bram de Wilde', 'Anindo Saha', 'Richard P. G. ten Broek', 'Henkjan Huisman']",arXiv:2303.13430
+http://arxiv.org/abs/2303.13285v1,2023-03-23T14:08:00Z,"Fourier Diffusion Models: A Method to Control MTF and NPS in Score-Based
+  Stochastic Image Generation","['Matthew Tivnan', 'Jacopo Teneggi', 'Tzu-Cheng Lee', 'Ruoqiao Zhang', 'Kirsten Boedeker', 'Liang Cai', 'Grace J. Gang', 'Jeremias Sulam', 'J. Webster Stayman']",arXiv:2303.13285
+http://arxiv.org/abs/2303.13126v2,2023-03-23T09:30:39Z,"MagicFusion: Boosting Text-to-Image Generation Performance by Fusing
+  Diffusion Models","['Jing Zhao', 'Heliang Zheng', 'Chaoyue Wang', 'Long Lan', 'Wenjing Yang']",arXiv:2303.13126
+http://arxiv.org/abs/2303.12688v1,2023-03-22T16:36:10Z,Pix2Video: Video Editing using Image Diffusion,"['Duygu Ceylan', 'Chun-Hao Paul Huang', 'Niloy J. Mitra']",arXiv:2303.12688
+http://arxiv.org/abs/2303.12343v1,2023-03-22T06:55:01Z,LD-ZNet: A Latent Diffusion Approach for Text-Based Image Segmentation,"['Koutilya Pnvr', 'Bharat Singh', 'Pallabi Ghosh', 'Behjat Siddiquie', 'David Jacobs']",arXiv:2303.12343
+http://arxiv.org/abs/2303.11916v1,2023-03-21T15:06:35Z,CompoDiff: Versatile Composed Image Retrieval With Latent Diffusion,"['Geonmo Gu', 'Sanghyuk Chun', 'Wonjae Kim', 'HeeJae Jun', 'Yoohoon Kang', 'Sangdoo Yun']",arXiv:2303.11916
+http://arxiv.org/abs/2303.11681v1,2023-03-21T08:43:15Z,"DiffuMask: Synthesizing Images with Pixel-level Annotations for Semantic
+  Segmentation Using Diffusion Models","['Weijia Wu', 'Yuzhong Zhao', 'Mike Zheng Shou', 'Hong Zhou', 'Chunhua Shen']",arXiv:2303.11681
+http://arxiv.org/abs/2303.11477v1,2023-03-20T22:16:03Z,"NASDM: Nuclei-Aware Semantic Histopathology Image Generation Using
+  Diffusion Models","['Aman Shrivastava', 'P. Thomas Fletcher']",arXiv:2303.11477
+http://arxiv.org/abs/2303.11435v2,2023-03-20T20:28:17Z,"Inversion by Direct Iteration: An Alternative to Denoising Diffusion for
+  Image Restoration","['Mauricio Delbracio', 'Peyman Milanfar']",arXiv:2303.11435
+http://arxiv.org/abs/2303.11306v1,2023-03-20T17:45:08Z,"Localizing Object-level Shape Variations with Text-to-Image Diffusion
+  Models","['Or Patashnik', 'Daniel Garibi', 'Idan Azuri', 'Hadar Averbuch-Elor', 'Daniel Cohen-Or']",arXiv:2303.11306
+http://arxiv.org/abs/2303.10610v2,2023-03-19T09:15:45Z,"DiffMIC: Dual-Guidance Diffusion Network for Medical Image
+  Classification","['Yijun Yang', 'Huazhu Fu', 'Angelica I. Aviles-Rivero', 'Carola-Bibiane Schönlieb', 'Lei Zhu']",arXiv:2303.10610
+http://arxiv.org/abs/2303.09642v2,2023-03-16T20:42:24Z,"SUD$^2$: Supervision by Denoising Diffusion Models for Image
+  Reconstruction","['Matthew A. Chan', 'Sean I. Young', 'Christopher A. Metzler']",arXiv:2303.09642
+http://arxiv.org/abs/2303.09627v1,2023-03-16T20:06:55Z,Denoising Diffusion Post-Processing for Low-Light Image Enhancement,"['Savvas Panagiotou', 'Anna S. Bosman']",arXiv:2303.09627
+http://arxiv.org/abs/2303.09472v1,2023-03-16T16:47:14Z,DiffIR: Efficient Diffusion Model for Image Restoration,"['Bin Xia', 'Yulun Zhang', 'Shiyin Wang', 'Yitong Wang', 'Xinglong Wu', 'Yapeng Tian', 'Wenming Yang', 'Luc Van Gool']",arXiv:2303.09472
+http://arxiv.org/abs/2303.09319v1,2023-03-16T13:50:20Z,"Unified Multi-Modal Latent Diffusion for Joint Subject and Text
+  Conditional Image Generation","['Yiyang Ma', 'Huan Yang', 'Wenjing Wang', 'Jianlong Fu', 'Jiaying Liu']",arXiv:2303.09319
+http://arxiv.org/abs/2303.09295v1,2023-03-16T13:15:03Z,DIRE for Diffusion-Generated Image Detection,"['Zhendong Wang', 'Jianmin Bao', 'Wengang Zhou', 'Weilun Wang', 'Hezhen Hu', 'Hong Chen', 'Houqiang Li']",arXiv:2303.09295
+http://arxiv.org/abs/2303.11444v1,2023-03-15T22:26:09Z,"Aerial Diffusion: Text Guided Ground-to-Aerial View Translation from a
+  Single Image using Diffusion Models","['Divya Kothandaraman', 'Tianyi Zhou', 'Ming Lin', 'Dinesh Manocha']",arXiv:2303.11444
+http://arxiv.org/abs/2303.08863v2,2023-03-15T18:32:52Z,"Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield
+  Images with Class Labels","['Jan Oscar Cross-Zamirski', 'Praveen Anand', 'Guy Williams', 'Elizabeth Mouchet', 'Yinhai Wang', 'Carola-Bibiane Schönlieb']",arXiv:2303.08863
+http://arxiv.org/abs/2303.08767v2,2023-03-15T17:07:45Z,"Highly Personalized Text Embedding for Image Manipulation by Stable
+  Diffusion","['Inhwa Han', 'Serin Yang', 'Taesung Kwon', 'Jong Chul Ye']",arXiv:2303.08767
+http://arxiv.org/abs/2303.08714v2,2023-03-15T15:50:11Z,ResDiff: Combining CNN and Diffusion Model for Image Super-Resolution,"['Shuyao Shang', 'Zhengyang Shan', 'Guangxing Liu', 'Jinglin Zhang']",arXiv:2303.08714
+http://arxiv.org/abs/2303.08622v1,2023-03-15T13:47:02Z,"Zero-Shot Contrastive Loss for Text-Guided Diffusion Image Style
+  Transfer","['Serin Yang', 'Hyunmin Hwang', 'Jong Chul Ye']",arXiv:2303.08622
+http://arxiv.org/abs/2303.08440v1,2023-03-15T08:28:06Z,Improving 3D Imaging with Pre-Trained Perpendicular 2D Diffusion Models,"['Suhyeon Lee', 'Hyungjin Chung', 'Minyoung Park', 'Jonghyuk Park', 'Wi-Sun Ryu', 'Jong Chul Ye']",arXiv:2303.08440
+http://arxiv.org/abs/2303.08189v1,2023-03-14T19:24:23Z,Diffusion Models for Contrast Harmonization of Magnetic Resonance Images,"['Alicia Durrer', 'Julia Wolleb', 'Florentin Bieder', 'Tim Sinnecker', 'Matthias Weigel', 'Robin Sandkühler', 'Cristina Granziera', 'Özgür Yaldizli', 'Philippe C. Cattin']",arXiv:2303.08189
+http://arxiv.org/abs/2303.08084v1,2023-03-14T17:14:21Z,Editing Implicit Assumptions in Text-to-Image Diffusion Models,"['Hadas Orgad', 'Bahjat Kawar', 'Yonatan Belinkov']",arXiv:2303.08084
+http://arxiv.org/abs/2303.07909v2,2023-03-14T13:49:54Z,Text-to-image Diffusion Models in Generative AI: A Survey,"['Chenshuang Zhang', 'Chaoning Zhang', 'Mengchun Zhang', 'In So Kweon']",arXiv:2303.07909
+http://arxiv.org/abs/2303.06994v1,2023-03-13T10:49:59Z,"Synthesizing Realistic Image Restoration Training Pairs: A Diffusion
+  Approach","['Tao Yang', 'Peiran Ren', 'Xuansong xie', 'Lei Zhang']",arXiv:2303.06994
+http://arxiv.org/abs/2303.06840v1,2023-03-13T04:06:42Z,DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion,"['Zixiang Zhao', 'Haowen Bai', 'Yuanzhi Zhu', 'Jiangshe Zhang', 'Shuang Xu', 'Yulun Zhang', 'Kai Zhang', 'Deyu Meng', 'Radu Timofte', 'Luc Van Gool']",arXiv:2303.06840
+http://arxiv.org/abs/2303.06682v2,2023-03-12T14:57:04Z,"DDS2M: Self-Supervised Denoising Diffusion Spatio-Spectral Model for
+  Hyperspectral Image Restoration","['Yuchun Miao', 'Lefei Zhang', 'Liangpei Zhang', 'Dacheng Tao']",arXiv:2303.06682
+http://arxiv.org/abs/2303.06464v2,2023-03-11T17:30:36Z,PARASOL: Parametric Style Control for Diffusion Image Synthesis,"['Gemma Canet Tarrés', 'Dan Ruta', 'Tu Bui', 'John Collomosse']",arXiv:2303.06464
+http://arxiv.org/abs/2303.06410v1,2023-03-11T14:04:58Z,Brain Diffuser: An End-to-End Brain Image to Brain Network Pipeline,"['Xuhang Chen', 'Baiying Lei', 'Chi-Man Pun', 'Shuqiang Wang']",arXiv:2303.06410
+http://arxiv.org/abs/2303.06371v1,2023-03-11T10:36:27Z,"AugDiff: Diffusion based Feature Augmentation for Multiple Instance
+  Learning in Whole Slide Image","['Zhuchen Shao', 'Liuxi Dai', 'Yifeng Wang', 'Haoqian Wang', 'Yongbing Zhang']",arXiv:2303.06371
+http://arxiv.org/abs/2303.05275v2,2023-03-09T14:14:29Z,Detecting Images Generated by Diffusers,"['Davide Alessandro Coccomini', 'Andrea Esuli', 'Fabrizio Falchi', 'Claudio Gennaro', 'Giuseppe Amato']",arXiv:2303.05275
+http://arxiv.org/abs/2303.04803v4,2023-03-08T18:58:26Z,"Open-Vocabulary Panoptic Segmentation with Text-to-Image Diffusion
+  Models","['Jiarui Xu', 'Sifei Liu', 'Arash Vahdat', 'Wonmin Byeon', 'Xiaolong Wang', 'Shalini De Mello']",arXiv:2303.04803
+http://arxiv.org/abs/2303.04772v1,2023-03-08T18:10:10Z,"Multilevel Diffusion: Infinite Dimensional Score-Based Diffusion Models
+  for Image Generation","['Paul Hagemann', 'Lars Ruthotto', 'Gabriele Steidl', 'Nicole Tianjiao Yang']",arXiv:2303.04772
+http://arxiv.org/abs/2303.04603v1,2023-03-08T14:14:49Z,"Learning Enhancement From Degradation: A Diffusion Model For Fundus
+  Image Enhancement","['Puijin Cheng', 'Li Lin', 'Yijin Huang', 'Huaqing He', 'Wenhan Luo', 'Xiaoying Tang']",arXiv:2303.04603
+http://arxiv.org/abs/2303.03516v1,2023-03-06T21:58:57Z,"Imaging local diffusion in microstructures using NV-based pulsed field
+  gradient NMR","['F. Bruckmaier', 'R. D. Allert', 'N. R. Neuling', 'P. Amrein', 'S. Littin', 'K. D. Briegel', 'P. Schätzle', 'P. Knittel', 'M. Zaitsev', 'D. B. Bucher']",arXiv:2303.03516
+http://arxiv.org/abs/2303.03449v1,2023-03-06T19:18:29Z,"Dual-encoded magnetization transfer and diffusion imaging and its
+  application to tract-specific microstructure mapping","['Ilana R Leppert', 'Pietro Bontempi', 'Christopher D Rowley', 'Jennifer SW Campbell', 'Mark C Nelson', 'Simona Schiavi', 'G Bruce Pike', 'Alessandro Daducci', 'Christine L Tardif']",arXiv:2303.03449
+http://arxiv.org/abs/2303.02649v1,2023-03-05T11:50:24Z,"CBCT-Based Synthetic CT Image Generation Using Conditional Denoising
+  Diffusion Probabilistic Model","['Junbo Peng', 'Richard L. J. Qiu', 'Jacob F Wynne', 'Chih-Wei Chang', 'Shaoyan Pan', 'Tonghe Wang', 'Justin Roper', 'Tian Liu', 'Pretesh R. Patel', 'David S. Yu', 'Xiaofeng Yang']",arXiv:2303.02649
+http://arxiv.org/abs/2303.02490v1,2023-03-04T20:08:57Z,"Diffusion Models Generate Images Like Painters: an Analytical Theory of
+  Outline First, Details Later","['Binxu Wang', 'John J. Vastola']",arXiv:2303.02490
+http://arxiv.org/abs/2303.02153v1,2023-03-03T18:59:47Z,Unleashing Text-to-Image Diffusion Models for Visual Perception,"['Wenliang Zhao', 'Yongming Rao', 'Zuyan Liu', 'Benlin Liu', 'Jie Zhou', 'Jiwen Lu']",arXiv:2303.02153
+http://arxiv.org/abs/2303.02094v1,2023-03-03T17:24:39Z,"Bi-parametric prostate MR image synthesis using pathology and
+  sequence-conditioned stable diffusion","['Shaheer U. Saeed', 'Tom Syer', 'Wen Yan', 'Qianye Yang', 'Mark Emberton', 'Shonit Punwani', 'Matthew J. Clarkson', 'Dean C. Barratt', 'Yipeng Hu']",arXiv:2303.02094
+http://arxiv.org/abs/2303.00608v1,2023-03-01T16:01:46Z,"Level Up the Deepfake Detection: a Method to Effectively Discriminate
+  Images Generated by GAN Architectures and Diffusion Models","['Luca Guarnera', 'Oliver Giudice', 'Sebastiano Battiato']",arXiv:2303.00608
+http://arxiv.org/abs/2302.13861v1,2023-02-27T15:02:04Z,Differentially Private Diffusion Models Generate Useful Synthetic Images,"['Sahra Ghalebikesabi', 'Leonard Berrada', 'Sven Gowal', 'Ira Ktena', 'Robert Stanforth', 'Jamie Hayes', 'Soham De', 'Samuel L. Smith', 'Olivia Wiles', 'Borja Balle']",arXiv:2302.13861
+http://arxiv.org/abs/2302.12764v1,2023-02-24T17:28:08Z,Modulating Pretrained Diffusion Models for Multimodal Image Synthesis,"['Cusuh Ham', 'James Hays', 'Jingwan Lu', 'Krishna Kumar Singh', 'Zhifei Zhang', 'Tobias Hinz']",arXiv:2302.12764
+http://arxiv.org/abs/2302.12398v1,2023-02-24T01:59:57Z,"Characterize the non-Gaussian diffusion property of cerebrospinal fluid
+  using Diffusion Kurtosis Imaging and explore its diagnostic efficacy for
+  Alzheimer's disease","['Yingnan Xue', 'Min Wen', 'Qiong Ye']",arXiv:2302.12398
+http://arxiv.org/abs/2303.12755v2,2023-02-23T14:03:07Z,"Text Semantics to Image Generation: A method of building facades design
+  base on Stable Diffusion model",['Haoran Ma'],arXiv:2303.12755
+http://arxiv.org/abs/2302.11797v1,2023-02-23T06:20:29Z,Region-Aware Diffusion for Zero-shot Text-driven Image Editing,"['Nisha Huang', 'Fan Tang', 'Weiming Dong', 'Tong-Yee Lee', 'Changsheng Xu']",arXiv:2302.11797
+http://arxiv.org/abs/2302.11710v1,2023-02-23T00:10:40Z,Controlled and Conditional Text to Image Generation with Diffusion Prior,"['Pranav Aggarwal', 'Hareesh Ravi', 'Naveen Marri', 'Sachin Kelkar', 'Fengbin Chen', 'Vinh Khuc', 'Midhun Harikumar', 'Ritiz Tambi', 'Sudharshan Reddy Kakumanu', 'Purvak Lapsiya', 'Alvin Ghouas', 'Sarah Saber', 'Malavika Ramprasad', 'Baldo Faieta', 'Ajinkya Kale']",arXiv:2302.11710
+http://arxiv.org/abs/2302.10781v1,2023-02-21T16:18:40Z,"Learning 3D Photography Videos via Self-supervised Diffusion on Single
+  Images","['Xiaodong Wang', 'Chenfei Wu', 'Shengming Yin', 'Minheng Ni', 'Jianfeng Wang', 'Linjie Li', 'Zhengyuan Yang', 'Fan Yang', 'Lijuan Wang', 'Zicheng Liu', 'Yuejian Fang', 'Nan Duan']",arXiv:2302.10781
+http://arxiv.org/abs/2302.10668v2,2023-02-21T13:37:07Z,"$PC^2$: Projection-Conditioned Point Cloud Diffusion for Single-Image 3D
+  Reconstruction","['Luke Melas-Kyriazi', 'Christian Rupprecht', 'Andrea Vedaldi']",arXiv:2302.10668
+http://arxiv.org/abs/2302.10109v1,2023-02-20T17:12:00Z,"NerfDiff: Single-image View Synthesis with NeRF-guided Distillation from
+  3D-aware Diffusion","['Jiatao Gu', 'Alex Trevithick', 'Kai-En Lin', 'Josh Susskind', 'Christian Theobalt', 'Lingjie Liu', 'Ravi Ramamoorthi']",arXiv:2302.10109
+http://arxiv.org/abs/2302.09247v1,2023-02-18T06:41:41Z,FastCod: Fast Brain Connectivity in Diffusion Imaging,"['Zhangxing Bian', 'Muhan Shao', 'Jiachen Zhuo', 'Rao P. Gullapalli', 'Aaron Carass', 'Jerry L. Prince']",arXiv:2302.09247
+http://arxiv.org/abs/2302.08453v2,2023-02-16T17:56:08Z,"T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for
+  Text-to-Image Diffusion Models","['Chong Mou', 'Xintao Wang', 'Liangbin Xie', 'Yanze Wu', 'Jian Zhang', 'Zhongang Qi', 'Ying Shan', 'Xiaohu Qie']",arXiv:2302.08453
+http://arxiv.org/abs/2302.08411v1,2023-02-16T16:39:13Z,Explicit Diffusion of Gaussian Mixture Model Based Image Priors,"['Martin Zach', 'Thomas Pock', 'Erich Kobler', 'Antonin Chambolle']",arXiv:2302.08411
+http://arxiv.org/abs/2302.08908v1,2023-02-16T14:20:25Z,"LayoutDiffuse: Adapting Foundational Diffusion Models for
+  Layout-to-Image Generation","['Jiaxin Cheng', 'Xiao Liang', 'Xingjian Shi', 'Tong He', 'Tianjun Xiao', 'Mu Li']",arXiv:2302.08908
+http://arxiv.org/abs/2302.13975v1,2023-02-16T07:48:58Z,"Observation of ballistic-diffusive thermal transport in GaN transistors
+  using thermoreflectance thermal imaging","['Zhi-Ke Liu', 'Yang Shen', 'Han-Ling Li', 'Bing-Yang Cao']",arXiv:2302.13975
+http://arxiv.org/abs/2302.08113v1,2023-02-16T06:28:29Z,MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation,"['Omer Bar-Tal', 'Lior Yariv', 'Yaron Lipman', 'Tali Dekel']",arXiv:2302.08113
+http://arxiv.org/abs/2302.07979v2,2023-02-15T22:58:11Z,PRedItOR: Text Guided Image Editing with Diffusion Prior,"['Hareesh Ravi', 'Sachin Kelkar', 'Midhun Harikumar', 'Ajinkya Kale']",arXiv:2302.07979
+http://arxiv.org/abs/2302.07864v1,2023-02-15T18:56:06Z,"Denoising Diffusion Probabilistic Models for Robust Image
+  Super-Resolution in the Wild","['Hshmat Sahak', 'Daniel Watson', 'Chitwan Saharia', 'David Fleet']",arXiv:2302.07864
+http://arxiv.org/abs/2302.12831v1,2023-02-14T15:13:33Z,"CDPMSR: Conditional Diffusion Probabilistic Models for Single Image
+  Super-Resolution","['Axi Niu', 'Kang Zhang', 'Trung X. Pham', 'Jinqiu Sun', 'Yu Zhu', 'In So Kweon', 'Yanning Zhang']",arXiv:2302.12831
+http://arxiv.org/abs/2302.06908v2,2023-02-14T08:51:47Z,"DiffFaceSketch: High-Fidelity Face Image Synthesis with Sketch-Guided
+  Latent Diffusion Model","['Yichen Peng', 'Chunqi Zhao', 'Haoran Xie', 'Tsukasa Fukusato', 'Kazunori Miyata']",arXiv:2302.06908
+http://arxiv.org/abs/2302.05830v1,2023-02-12T01:17:23Z,"NephroNet: A Novel Program for Identifying Renal Cell Carcinoma and
+  Generating Synthetic Training Images with Convolutional Neural Networks and
+  Diffusion Models",['Yashvir Sabharwal'],arXiv:2302.05830
+http://arxiv.org/abs/2302.05573v1,2023-02-11T02:15:00Z,"3D Colored Shape Reconstruction from a Single RGB Image through
+  Diffusion","['Bo Li', 'Xiaolin Wei', 'Fengwei Chen', 'Bin Liu']",arXiv:2302.05573
+http://arxiv.org/abs/2302.05543v1,2023-02-10T23:12:37Z,Adding Conditional Control to Text-to-Image Diffusion Models,"['Lvmin Zhang', 'Maneesh Agrawala']",arXiv:2302.05543
+http://arxiv.org/abs/2302.10893v1,2023-02-07T18:25:28Z,Fair Diffusion: Instructing Text-to-Image Generation Models on Fairness,"['Felix Friedrich', 'Patrick Schramowski', 'Manuel Brack', 'Lukas Struppek', 'Dominik Hintersdorf', 'Sasha Luccioni', 'Kristian Kersting']",arXiv:2302.10893
+http://arxiv.org/abs/2302.03270v1,2023-02-07T05:50:14Z,"High sensitivity HI image of diffuse gas and new tidal features in M51
+  observed by FAST","['Haiyang Yu', 'Ming Zhu', 'Jin-Long Xu', 'Mei Ai', 'Peng Jiang', 'Yanbin Yang']",arXiv:2302.03270
+http://arxiv.org/abs/2302.02412v1,2023-02-05T15:49:26Z,"Mixture of Diffusers for scene composition and high resolution image
+  generation",['Álvaro Barbero Jiménez'],arXiv:2302.02412
+http://arxiv.org/abs/2302.02398v1,2023-02-05T14:53:07Z,Diffusion Model for Generative Image Denoising,"['Yutong Xie', 'Minne Yuan', 'Bin Dong', 'Quanzheng Li']",arXiv:2302.02398
+http://arxiv.org/abs/2302.02394v2,2023-02-05T14:30:22Z,"Eliminating Prior Bias for Semantic Image Editing via Dual-Cycle
+  Diffusion","['Zuopeng Yang', 'Tianshu Chu', 'Xin Lin', 'Erdun Gao', 'Daqing Liu', 'Jie Yang', 'Chaoyue Wang']",arXiv:2302.02394
+http://arxiv.org/abs/2302.02284v1,2023-02-05T02:47:13Z,"Design Booster: A Text-Guided Diffusion Model for Image Translation with
+  Spatial Layout Preservation","['Shiqi Sun', 'Shancheng Fang', 'Qian He', 'Wei Liu']",arXiv:2302.02284
+http://arxiv.org/abs/2302.01217v1,2023-02-02T16:55:03Z,"A Theoretical Justification for Image Inpainting using Denoising
+  Diffusion Probabilistic Models","['Litu Rout', 'Advait Parulekar', 'Constantine Caramanis', 'Sanjay Shakkottai']",arXiv:2302.01217
+http://arxiv.org/abs/2301.13826v1,2023-01-31T18:10:38Z,"Attend-and-Excite: Attention-Based Semantic Guidance for Text-to-Image
+  Diffusion Models","['Hila Chefer', 'Yuval Alaluf', 'Yael Vinker', 'Lior Wolf', 'Daniel Cohen-Or']",arXiv:2301.13826
+http://arxiv.org/abs/2301.12914v2,2023-01-30T14:15:47Z,"PromptMix: Text-to-image diffusion models enhance the performance of
+  lightweight networks","['Arian Bakhtiarnia', 'Qi Zhang', 'Alexandros Iosifidis']",arXiv:2301.12914
+http://arxiv.org/abs/2301.11093v1,2023-01-26T13:35:02Z,simple diffusion: End-to-end diffusion for high resolution images,"['Emiel Hoogeboom', 'Jonathan Heek', 'Tim Salimans']",arXiv:2301.11093
+http://arxiv.org/abs/2301.11785v1,2023-01-26T09:37:28Z,"Dual Diffusion Architecture for Fisheye Image Rectification:
+  Synthetic-to-Real Generalization","['Shangrong Yang', 'Chunyu Lin', 'Kang Liao', 'Yao Zhao']",arXiv:2301.11785
+http://arxiv.org/abs/2301.09430v3,2023-01-23T13:34:01Z,"RainDiffusion: When Unsupervised Learning Meets Diffusion Models for
+  Real-world Image Deraining","['Mingqiang Wei', 'Yiyang Shen', 'Yongzhen Wang', 'Haoran Xie', 'Jing Qin', 'Fu Lee Wang']",arXiv:2301.09430
+http://arxiv.org/abs/2301.08815v2,2023-01-20T22:13:48Z,DiffusionCT: Latent Diffusion Model for CT Image Standardization,"['Md Selim', 'Jie Zhang', 'Michael A. Brooks', 'Ge Wang', 'Jin Chen']",arXiv:2301.08815
+http://arxiv.org/abs/2301.08072v1,2023-01-19T13:37:19Z,"Dif-Fusion: Towards High Color Fidelity in Infrared and Visible Image
+  Fusion with Diffusion Models","['Jun Yue', 'Leyuan Fang', 'Shaobo Xia', 'Yue Deng', 'Jiayi Ma']",arXiv:2301.08072
+http://arxiv.org/abs/2301.07908v1,2023-01-19T06:34:09Z,"Quantitative phase imaging (QPI) through random diffusers using a
+  diffractive optical network","['Yuhang Li', 'Yi Luo', 'Deniz Mengu', 'Bijie Bai', 'Aydogan Ozcan']",arXiv:2301.07908
+http://arxiv.org/abs/2301.11798v1,2023-01-19T03:42:36Z,"MedSegDiff-V2: Diffusion based Medical Image Segmentation with
+  Transformer","['Junde Wu', 'Rao Fu', 'Huihui Fang', 'Yu Zhang', 'Yanwu Xu']",arXiv:2301.11798
+http://arxiv.org/abs/2301.07557v1,2023-01-18T14:21:38Z,Targeted Image Reconstruction by Sampling Pre-trained Diffusion Model,['Jiageng Zheng'],arXiv:2301.07557
+http://arxiv.org/abs/2301.05221v1,2023-01-12T18:59:08Z,Guiding Text-to-Image Diffusion Model Towards Grounded Generation,"['Ziyi Li', 'Qinye Zhou', 'Xiaoyun Zhang', 'Ya Zhang', 'Yanfeng Wang', 'Weidi Xie']",arXiv:2301.05221
+http://arxiv.org/abs/2301.04802v1,2023-01-12T04:22:23Z,"Diffusion-based Data Augmentation for Skin Disease Classification:
+  Impact Across Original Medical Datasets to Fully Synthetic Images","['Mohamed Akrout', 'Bálint Gyepesi', 'Péter Holló', 'Adrienn Poór', 'Blága Kincső', 'Stephen Solis', 'Katrina Cirone', 'Jeremy Kawahara', 'Dekker Slade', 'Latif Abid', 'Máté Kovács', 'István Fazekas']",arXiv:2301.04802
+http://arxiv.org/abs/2301.01914v2,2023-01-05T05:17:45Z,"Accuracy and Fidelity Comparison of Luna and DALL-E 2 Diffusion-Based
+  Image Generation Systems","['Michael Cahyadi', 'Muhammad Rafi', 'William Shan', 'Jurike Moniaga', 'Henry Lucky']",arXiv:2301.01914
+http://arxiv.org/abs/2301.01902v1,2023-01-05T04:12:54Z,"What is in a Text-to-Image Prompt: The Potential of Stable Diffusion in
+  Visual Arts Education","['Nassim Dehouche', 'Kullathida Dehouche']",arXiv:2301.01902
+http://arxiv.org/abs/2301.10227v1,2023-01-02T14:17:08Z,"Denoising Diffusion Probabilistic Models for Generation of Realistic
+  Fully-Annotated Microscopy Image Data Sets","['Dennis Eschweiler', 'Johannes Stegmaier']",arXiv:2301.10227
+http://arxiv.org/abs/2301.00409v1,2023-01-01T14:19:52Z,"Diffusion Model based Semi-supervised Learning on Brain Hemorrhage
+  Images for Efficient Midline Shift Quantification","['Shizhan Gong', 'Cheng Chen', 'Yuqi Gong', 'Nga Yan Chan', 'Wenao Ma', 'Calvin Hoi-Kwan Mak', 'Jill Abrigo', 'Qi Dou']",arXiv:2301.00409
+http://arxiv.org/abs/2212.14704v2,2022-12-28T18:23:47Z,"Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and
+  Text-to-Image Diffusion Models","['Jiale Xu', 'Xintao Wang', 'Weihao Cheng', 'Yan-Pei Cao', 'Ying Shan', 'Xiaohu Qie', 'Shenghua Gao']",arXiv:2212.14704
+http://arxiv.org/abs/2212.13771v1,2022-12-28T10:32:59Z,Exploring Vision Transformers as Diffusion Learners,"['He Cao', 'Jianan Wang', 'Tianhe Ren', 'Xianbiao Qi', 'Yihao Chen', 'Yuan Yao', 'Lei Zhang']",arXiv:2212.13771
+http://arxiv.org/abs/2212.14678v1,2022-12-27T07:05:14Z,Exploring Transformer Backbones for Image Diffusion Models,['Princy Chahal'],arXiv:2212.14678
+http://arxiv.org/abs/2212.11565v2,2022-12-22T09:43:36Z,"Tune-A-Video: One-Shot Tuning of Image Diffusion Models for
+  Text-to-Video Generation","['Jay Zhangjie Wu', 'Yixiao Ge', 'Xintao Wang', 'Weixian Lei', 'Yuchao Gu', 'Yufei Shi', 'Wynne Hsu', 'Ying Shan', 'Xiaohu Qie', 'Mike Zheng Shou']",arXiv:2212.11565
+http://arxiv.org/abs/2212.11298v1,2022-12-21T19:00:05Z,"Near-infrared characterization of ultra-diffuse galaxies in Abell 2744
+  by JWST/NIRISS imaging","['Ryota Ikeda', 'Takahiro Morishita', 'Takafumi Tsukui', 'Benedetta Vulcani', 'Michele Trenti', 'Benjamin Metha', 'Ana Acebron', 'Pietro Bergamini', 'Claudio Grillo', 'Daisuke Iono', 'Amata Mercurio', 'Piero Rosati', 'Eros Vanzella']",arXiv:2212.11298
+http://arxiv.org/abs/2212.11177v1,2022-12-21T16:44:32Z,"PHANGS-JWST First Results: Tracing the Diffuse ISM with JWST Imaging of
+  Polycyclic Aromatic Hydrocarbon Emission in Nearby Galaxies","['Karin M. Sandstrom', 'Eric W. Koch', 'Adam K. Leroy', 'Erik Rosolowsky', 'Eric Emsellem', 'Rowan J. Smith', 'Oleg V. Egorov', 'Thomas G. Williams', 'Kirsten L. Larson', 'Janice C. Lee', 'Eva Schinnerer', 'David A. Thilker', 'Ashley. T. Barnes', 'Francesco Belfiore', 'F. Bigiel', 'Guillermo A. Blanc', 'Alberto D. Bolatto', 'Médéric Boquien', 'Yixian Cao', 'Jérémy Chastenet', 'Mélanie Chevance', 'I-Da Chiang', 'Daniel A. Dale', 'Christopher M. Faesi', 'Simon C. O. Glover', 'Kathryn Grasha', 'Brent Groves', 'Hamid Hassani', 'Jonathan D. Henshaw', 'Annie Hughes', 'Jaeyeon Kim', 'Ralf S. Klessen', 'Kathryn Kreckel', 'J. M. Diederik Kruijssen', 'Laura A. Lopez', 'Daizhong Liu', 'Sharon E. Meidt', 'Eric J. Murphy', 'Hsi-An Pan', 'Miguel Querejeta', 'Toshiki Saito', 'Amy Sardone', 'Mattia C. Sormani', 'Jessica Sutter', 'Antonio Usero', 'Elizabeth J. Watkins']",arXiv:2212.11177
+http://arxiv.org/abs/2212.08698v1,2022-12-16T19:58:52Z,"Uncovering the Disentanglement Capability in Text-to-Image Diffusion
+  Models","['Qiucheng Wu', 'Yujian Liu', 'Handong Zhao', 'Ajinkya Kale', 'Trung Bui', 'Tong Yu', 'Zhe Lin', 'Yang Zhang', 'Shiyu Chang']",arXiv:2212.08698
+http://arxiv.org/abs/2212.08228v2,2022-12-16T01:35:27Z,"SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image
+  Generation","['Jee Seok Yoon', 'Chenghao Zhang', 'Heung-Il Suk', 'Jia Guo', 'Xiaoxiao Li']",arXiv:2212.08228
+http://arxiv.org/abs/2212.07501v1,2022-12-14T20:46:50Z,Diffusion Probabilistic Models beat GANs on Medical Images,"['Gustav Müller-Franzes', 'Jan Moritz Niehues', 'Firas Khader', 'Soroosh Tayebi Arasteh', 'Christoph Haarburger', 'Christiane Kuhl', 'Tianci Wang', 'Tianyu Han', 'Sven Nebelung', 'Jakob Nikolas Kather', 'Daniel Truhn']",arXiv:2212.07501
+http://arxiv.org/abs/2212.05032v3,2022-12-09T18:30:24Z,"Training-Free Structured Diffusion Guidance for Compositional
+  Text-to-Image Synthesis","['Weixi Feng', 'Xuehai He', 'Tsu-Jui Fu', 'Varun Jampani', 'Arjun Akula', 'Pradyumna Narayana', 'Sugato Basu', 'Xin Eric Wang', 'William Yang Wang']",arXiv:2212.05032
+http://arxiv.org/abs/2212.04489v1,2022-12-08T18:57:13Z,SINE: SINgle Image Editing with Text-to-Image Diffusion Models,"['Zhixing Zhang', 'Ligong Han', 'Arnab Ghosh', 'Dimitris Metaxas', 'Jian Ren']",arXiv:2212.04489
+http://arxiv.org/abs/2212.04488v1,2022-12-08T18:57:02Z,Multi-Concept Customization of Text-to-Image Diffusion,"['Nupur Kumari', 'Bingliang Zhang', 'Richard Zhang', 'Eli Shechtman', 'Jun-Yan Zhu']",arXiv:2212.04488
+http://arxiv.org/abs/2212.04473v2,2022-12-08T18:46:19Z,Diffusion Guided Domain Adaptation of Image Generators,"['Kunpeng Song', 'Ligong Han', 'Bingchen Liu', 'Dimitris Metaxas', 'Ahmed Elgammal']",arXiv:2212.04473
+http://arxiv.org/abs/2212.03630v1,2022-12-07T13:39:23Z,One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging,"['Bin Huang', 'Liu Zhang', 'Shiyu Lu', 'Boyu Lin', 'Weiwen Wu', 'Qiegen Liu']",arXiv:2212.03630
+http://arxiv.org/abs/2212.03267v1,2022-12-06T19:00:07Z,"NeRDi: Single-View NeRF Synthesis with Language-Guided Diffusion as
+  General Image Priors","['Congyue Deng', 'Chiyu ""Max\'\' Jiang', 'Charles R. Qi', 'Xinchen Yan', 'Yin Zhou', 'Leonidas Guibas', 'Dragomir Anguelov']",arXiv:2212.03267
+http://arxiv.org/abs/2212.03221v1,2022-12-06T18:39:58Z,ADIR: Adaptive Diffusion for Image Reconstruction,"['Shady Abu-Hussein', 'Tom Tirer', 'Raja Giryes']",arXiv:2212.03221
+http://arxiv.org/abs/2212.03099v1,2022-12-06T16:08:16Z,Semantic-Conditional Diffusion Networks for Image Captioning,"['Jianjie Luo', 'Yehao Li', 'Yingwei Pan', 'Ting Yao', 'Jianlin Feng', 'Hongyang Chao', 'Tao Mei']",arXiv:2212.03099
+http://arxiv.org/abs/2212.02024v2,2022-12-05T04:39:08Z,Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models,"['Naoki Matsunaga', 'Masato Ishii', 'Akio Hayakawa', 'Kenji Suzuki', 'Takuya Narihira']",arXiv:2212.02024
+http://arxiv.org/abs/2212.01789v2,2022-12-04T10:40:35Z,Multiscale Structure Guided Diffusion for Image Deblurring,"['Mengwei Ren', 'Mauricio Delbracio', 'Hossein Talebi', 'Guido Gerig', 'Peyman Milanfar']",arXiv:2212.01789
+http://arxiv.org/abs/2212.00490v2,2022-12-01T13:33:47Z,Zero-Shot Image Restoration Using Denoising Diffusion Null-Space Model,"['Yinhuai Wang', 'Jiwen Yu', 'Jian Zhang']",arXiv:2212.00490
+http://arxiv.org/abs/2211.17084v1,2022-11-30T15:43:20Z,High-Fidelity Guided Image Synthesis with Latent Diffusion Models,"['Jaskirat Singh', 'Stephen Gould', 'Liang Zheng']",arXiv:2211.17084
+http://arxiv.org/abs/2211.16678v1,2022-11-30T01:58:52Z,"FREDSR: Fourier Residual Efficient Diffusive GAN for Single Image Super
+  Resolution","['Kyoungwan Woo', 'Achyuta Rajaram']",arXiv:2211.16678
+http://arxiv.org/abs/2211.16582v2,2022-11-29T20:44:25Z,SinDDM: A Single Image Denoising Diffusion Model,"['Vladimir Kulikov', 'Shahar Yadin', 'Matan Kleiner', 'Tomer Michaeli']",arXiv:2211.16582
+http://arxiv.org/abs/2211.16374v2,2022-11-29T16:54:34Z,"DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image
+  Diffusion for 3D Generative Model","['Gwanghyun Kim', 'Se Young Chun']",arXiv:2211.16374
+http://arxiv.org/abs/2211.16152v2,2022-11-29T12:25:25Z,Wavelet Diffusion Models are fast and scalable Image Generators,"['Hao Phung', 'Quan Dao', 'Anh Tran']",arXiv:2211.16152
+http://arxiv.org/abs/2211.14842v1,2022-11-27T14:46:01Z,Unified Discrete Diffusion for Simultaneous Vision-Language Generation,"['Minghui Hu', 'Chuanxia Zheng', 'Heliang Zheng', 'Tat-Jen Cham', 'Chaoyue Wang', 'Zuopeng Yang', 'Dacheng Tao', 'Ponnuthurai N. Suganthan']",arXiv:2211.14842
+http://arxiv.org/abs/2211.13752v1,2022-11-24T18:45:32Z,Sketch-Guided Text-to-Image Diffusion Models,"['Andrey Voynov', 'Kfir Aberman', 'Daniel Cohen-Or']",arXiv:2211.13752
+http://arxiv.org/abs/2211.15388v2,2022-11-24T03:25:04Z,Shifted Diffusion for Text-to-image Generation,"['Yufan Zhou', 'Bingchen Liu', 'Yizhe Zhu', 'Xiao Yang', 'Changyou Chen', 'Jinhui Xu']",arXiv:2211.15388
+http://arxiv.org/abs/2211.13352v1,2022-11-23T23:53:03Z,"Improving dermatology classifiers across populations using images
+  generated by large diffusion models","['Luke W. Sagers', 'James A. Diao', 'Matthew Groh', 'Pranav Rajpurkar', 'Adewole S. Adamson', 'Arjun K. Manrai']",arXiv:2211.13352
+http://arxiv.org/abs/2211.13227v1,2022-11-23T18:59:52Z,Paint by Example: Exemplar-based Image Editing with Diffusion Models,"['Binxin Yang', 'Shuyang Gu', 'Bo Zhang', 'Ting Zhang', 'Xuejin Chen', 'Xiaoyan Sun', 'Dong Chen', 'Fang Wen']",arXiv:2211.13227
+http://arxiv.org/abs/2211.13224v1,2022-11-23T18:59:05Z,Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors,"['Ryan Burgert', 'Kanchana Ranasinghe', 'Xiang Li', 'Michael S. Ryoo']",arXiv:2211.13224
+http://arxiv.org/abs/2211.12572v1,2022-11-22T20:39:18Z,"Plug-and-Play Diffusion Features for Text-Driven Image-to-Image
+  Translation","['Narek Tumanyan', 'Michal Geyer', 'Shai Bagon', 'Tali Dekel']",arXiv:2211.12572
+http://arxiv.org/abs/2211.12500v2,2022-11-22T18:59:50Z,Person Image Synthesis via Denoising Diffusion Model,"['Ankan Kumar Bhunia', 'Salman Khan', 'Hisham Cholakkal', 'Rao Muhammad Anwer', 'Jorma Laaksonen', 'Mubarak Shah', 'Fahad Shahbaz Khan']",arXiv:2211.12500
+http://arxiv.org/abs/2211.12445v1,2022-11-22T18:00:03Z,SinDiffusion: Learning a Diffusion Model from a Single Natural Image,"['Weilun Wang', 'Jianmin Bao', 'Wengang Zhou', 'Dongdong Chen', 'Dong Chen', 'Lu Yuan', 'Houqiang Li']",arXiv:2211.12445
+http://arxiv.org/abs/2211.11743v2,2022-11-21T18:59:33Z,SinFusion: Training Diffusion Models on a Single Image or Video,"['Yaniv Nikankin', 'Niv Haim', 'Michal Irani']",arXiv:2211.11743
+http://arxiv.org/abs/2211.11694v2,2022-11-21T18:12:53Z,Exploring Discrete Diffusion Models for Image Captioning,"['Zixin Zhu', 'Yixuan Wei', 'Jianfeng Wang', 'Zhe Gan', 'Zheng Zhang', 'Le Wang', 'Gang Hua', 'Lijuan Wang', 'Zicheng Liu', 'Han Hu']",arXiv:2211.11694
+http://arxiv.org/abs/2211.11138v1,2022-11-21T01:11:19Z,"Diffusion-Based Scene Graph to Image Generation with Masked Contrastive
+  Pre-Training","['Ling Yang', 'Zhilin Huang', 'Yang Song', 'Shenda Hong', 'Guohao Li', 'Wentao Zhang', 'Bin Cui', 'Bernard Ghanem', 'Ming-Hsuan Yang']",arXiv:2211.11138
+http://arxiv.org/abs/2211.10865v2,2022-11-20T04:21:42Z,IC3D: Image-Conditioned 3D Diffusion for Shape Generation,"['Cristian Sbrolli', 'Paolo Cudrano', 'Matteo Frosi', 'Matteo Matteucci']",arXiv:2211.10865
+http://arxiv.org/abs/2211.10682v1,2022-11-19T12:30:44Z,"DiffStyler: Controllable Dual Diffusion for Text-Driven Image
+  Stylization","['Nisha Huang', 'Yuxin Zhang', 'Fan Tang', 'Chongyang Ma', 'Haibin Huang', 'Yong Zhang', 'Weiming Dong', 'Changsheng Xu']",arXiv:2211.10682
+http://arxiv.org/abs/2211.10656v1,2022-11-19T10:36:32Z,"Parallel Diffusion Models of Operator and Image for Blind Inverse
+  Problems","['Hyungjin Chung', 'Jeongsol Kim', 'Sehui Kim', 'Jong Chul Ye']",arXiv:2211.10656
+http://arxiv.org/abs/2211.10437v1,2022-11-18T18:59:01Z,"A Structure-Guided Diffusion Model for Large-Hole Diverse Image
+  Completion","['Daichi Horita', 'Jiaolong Yang', 'Dong Chen', 'Yuki Koyama', 'Kiyoharu Aizawa']",arXiv:2211.10437
+http://arxiv.org/abs/2211.09869v1,2022-11-17T20:17:04Z,"RenderDiffusion: Image Diffusion for 3D Reconstruction, Inpainting and
+  Generation","['Titas Anciukevičius', 'Zexiang Xu', 'Matthew Fisher', 'Paul Henderson', 'Hakan Bilen', 'Niloy J. Mitra', 'Paul Guerrero']",arXiv:2211.09869
+http://arxiv.org/abs/2211.09794v1,2022-11-17T18:58:14Z,"Null-text Inversion for Editing Real Images using Guided Diffusion
+  Models","['Ron Mokady', 'Amir Hertz', 'Kfir Aberman', 'Yael Pritch', 'Daniel Cohen-Or']",arXiv:2211.09794
+http://arxiv.org/abs/2211.08332v3,2022-11-15T17:44:05Z,"Versatile Diffusion: Text, Images and Variations All in One Diffusion
+  Model","['Xingqian Xu', 'Zhangyang Wang', 'Eric Zhang', 'Kai Wang', 'Humphrey Shi']",arXiv:2211.08332
+http://arxiv.org/abs/2211.07825v1,2022-11-15T01:07:38Z,"Direct Inversion: Optimization-Free Text-Driven Real Image Editing with
+  Diffusion Models","['Adham Elarabawy', 'Harish Kamath', 'Samuel Denton']",arXiv:2211.07825
+http://arxiv.org/abs/2211.07804v2,2022-11-14T23:50:52Z,Diffusion Models for Medical Image Analysis: A Comprehensive Survey,"['Amirhossein Kazerouni', 'Ehsan Khodapanah Aghdam', 'Moein Heidari', 'Reza Azad', 'Mohsen Fayyaz', 'Ilker Hacihaliloglu', 'Dorit Merhof']",arXiv:2211.07804
+http://arxiv.org/abs/2211.07793v1,2022-11-14T22:54:19Z,"Extreme Generative Image Compression by Learning Text Embedding from
+  Diffusion Models","['Zhihong Pan', 'Xin Zhou', 'Hao Tian']",arXiv:2211.07793
+http://arxiv.org/abs/2211.07751v1,2022-11-14T20:52:57Z,"Arbitrary Style Guidance for Enhanced Diffusion-Based Text-to-Image
+  Generation","['Zhihong Pan', 'Xin Zhou', 'Hao Tian']",arXiv:2211.07751
+http://arxiv.org/abs/2211.07532v1,2022-11-14T17:03:55Z,"High-resolution single-shot spiral diffusion-weighted imaging at 7T
+  using expanded encoding with compressed sensing","['Gabriel Varela-Mattatall', 'Paul I. Dubovan', 'Tales Santini', 'Kyle M. Gilbert', 'Ravi S. Menon', 'Corey A. Baron']",arXiv:2211.07532
+http://arxiv.org/abs/2211.06956v3,2022-11-13T17:04:05Z,"Seeing Beyond the Brain: Conditional Diffusion Model with Sparse Masked
+  Modeling for Vision Decoding","['Zijiao Chen', 'Jiaxin Qing', 'Tiange Xiang', 'Wan Lin Yue', 'Juan Helen Zhou']",arXiv:2211.06956
+http://arxiv.org/abs/2211.06757v1,2022-11-12T22:29:42Z,DriftRec: Adapting diffusion models to blind image restoration tasks,"['Simon Welker', 'Henry N. Chapman', 'Timo Gerkmann']",arXiv:2211.06757
+http://arxiv.org/abs/2211.11531v1,2022-11-12T09:33:48Z,"Evaluation of the hydrogen solubility and diffusivity in
+  proton-conducting oxides by converting the PSL values of a tritium imaging
+  plate","['M. Khalid Hossain', 'K. Hashizume', 'Y. Hatano']",arXiv:2211.11531
+http://arxiv.org/abs/2211.06235v1,2022-11-11T14:30:34Z,"HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for
+  Controllable Text-Driven Person Image Generation","['Kaiduo Zhang', 'Muyi Sun', 'Jianxin Sun', 'Binghao Zhao', 'Kunbo Zhang', 'Zhenan Sun', 'Tieniu Tan']",arXiv:2211.06235
+http://arxiv.org/abs/2211.07399v5,2022-11-11T08:24:50Z,"Fast implicit diffusive dark-field retrieval for single-exposure,
+  single-mask x-ray imaging","['Mario A. Beltran', 'David M. Paganin', 'Michelle K. Croughan', 'Kaye S. Morgan']",arXiv:2211.07399
+http://arxiv.org/abs/2211.05308v1,2022-11-10T03:02:12Z,"Cancer-Net BCa: Breast Cancer Pathologic Complete Response Prediction
+  using Volumetric Deep Radiomic Features from Synthetic Correlated Diffusion
+  Imaging","['Chi-en Amy Tai', 'Nedim Hodzic', 'Nic Flanagan', 'Hayden Gunraj', 'Alexander Wong']",arXiv:2211.05308
+http://arxiv.org/abs/2211.03364v7,2022-11-07T08:37:48Z,"Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D
+  Medical Image Generation","['Firas Khader', 'Gustav Mueller-Franzes', 'Soroosh Tayebi Arasteh', 'Tianyu Han', 'Christoph Haarburger', 'Maximilian Schulze-Hagen', 'Philipp Schad', 'Sandy Engelhardt', 'Bettina Baessler', 'Sebastian Foersch', 'Johannes Stegmaier', 'Christiane Kuhl', 'Sven Nebelung', 'Jakob Nikolas Kather', 'Daniel Truhn']",arXiv:2211.03364
+http://arxiv.org/abs/2211.03264v3,2022-11-07T02:18:27Z,Few-shot Image Generation with Diffusion Models,"['Jingyuan Zhu', 'Huimin Ma', 'Jiansheng Chen', 'Jian Yuan']",arXiv:2211.03264
+http://arxiv.org/abs/2211.01777v2,2022-11-03T13:02:08Z,Evaluating a Synthetic Image Dataset Generated with Stable Diffusion,['Andreas Stöckl'],arXiv:2211.01777
+http://arxiv.org/abs/2211.01324v5,2022-11-02T17:43:04Z,"eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert
+  Denoisers","['Yogesh Balaji', 'Seungjun Nah', 'Xun Huang', 'Arash Vahdat', 'Jiaming Song', 'Qinsheng Zhang', 'Karsten Kreis', 'Miika Aittala', 'Timo Aila', 'Samuli Laine', 'Bryan Catanzaro', 'Tero Karras', 'Ming-Yu Liu']",arXiv:2211.01324
+http://arxiv.org/abs/2211.00902v1,2022-11-02T06:02:55Z,"Spot the fake lungs: Generating Synthetic Medical Images using Neural
+  Diffusion Models","['Hazrat Ali', 'Shafaq Murad', 'Zubair Shah']",arXiv:2211.00902
+http://arxiv.org/abs/2211.00680v1,2022-11-01T18:10:55Z,On the detection of synthetic images generated by diffusion models,"['Riccardo Corvi', 'Davide Cozzolino', 'Giada Zingarini', 'Giovanni Poggi', 'Koki Nagano', 'Luisa Verdoliva']",arXiv:2211.00680
+http://arxiv.org/abs/2211.00611v5,2022-11-01T17:24:44Z,"MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic
+  Model","['Junde Wu', 'Rao Fu', 'Huihui Fang', 'Yu Zhang', 'Yehui Yang', 'Haoyi Xiong', 'Huiying Liu', 'Yanwu Xu']",arXiv:2211.00611
+http://arxiv.org/abs/2210.17076v1,2022-10-31T05:53:02Z,"TW-BAG: Tensor-wise Brain-aware Gate Network for Inpainting Disrupted
+  Diffusion Tensor Imaging","['Zihao Tang', 'Xinyi Wang', 'Lihaowen Zhu', 'Mariano Cabezas', 'Dongnan Liu', 'Michael Barnett', 'Weidong Cai', 'Chengyu Wang']",arXiv:2210.17076
+http://arxiv.org/abs/2210.16031v3,2022-10-28T10:07:25Z,"UPainting: Unified Text-to-Image Diffusion Generation with Cross-modal
+  Guidance","['Wei Li', 'Xue Xu', 'Xinyan Xiao', 'Jiachen Liu', 'Hu Yang', 'Guohao Li', 'Zhanpeng Wang', 'Zhifan Feng', 'Qiaoqiao She', 'Yajuan Lyu', 'Hua Wu']",arXiv:2210.16031
+http://arxiv.org/abs/2210.15257v2,2022-10-27T08:21:35Z,"ERNIE-ViLG 2.0: Improving Text-to-Image Diffusion Model with
+  Knowledge-Enhanced Mixture-of-Denoising-Experts","['Zhida Feng', 'Zhenyu Zhang', 'Xintong Yu', 'Yewei Fang', 'Lanxin Li', 'Xuyi Chen', 'Yuxiang Lu', 'Jiaxiang Liu', 'Weichong Yin', 'Shikun Feng', 'Yu Sun', 'Li Chen', 'Hao Tian', 'Hua Wu', 'Haifeng Wang']",arXiv:2210.15257
+http://arxiv.org/abs/2210.17408v1,2022-10-27T03:28:34Z,"Accelerating Diffusion Models via Pre-segmentation Diffusion Sampling
+  for Medical Image Segmentation","['Xutao Guo', 'Yanwu Yang', 'Chenfei Ye', 'Shang Lu', 'Yang Xiang', 'Ting Ma']",arXiv:2210.17408
+http://arxiv.org/abs/2210.12965v1,2022-10-24T06:07:35Z,High-Resolution Image Editing via Multi-Stage Blended Diffusion,"['Johannes Ackermann', 'Minjun Li']",arXiv:2210.12965
+http://arxiv.org/abs/2210.12100v1,2022-10-21T16:52:16Z,Boomerang: Local sampling on image manifolds using diffusion models,"['Lorenzo Luzi', 'Ali Siahkoohi', 'Paul M Mayer', 'Josue Casco-Rodriguez', 'Richard Baraniuk']",arXiv:2210.12100
+http://arxiv.org/abs/2210.11427v1,2022-10-20T17:16:37Z,DiffEdit: Diffusion-based semantic image editing with mask guidance,"['Guillaume Couairon', 'Jakob Verbeek', 'Holger Schwenk', 'Matthieu Cord']",arXiv:2210.11427
+http://arxiv.org/abs/2210.11045v2,2022-10-20T06:37:40Z,"Robust Image Registration with Absent Correspondences in Pre-operative
+  and Follow-up Brain MRI Scans of Diffuse Glioma Patients","['Tony C. W. Mok', 'Albert C. S. Chung']",arXiv:2210.11045
+http://arxiv.org/abs/2210.09549v1,2022-10-18T02:50:34Z,"Swinv2-Imagen: Hierarchical Vision Transformer Diffusion Models for
+  Text-to-Image Generation","['Ruijun Li', 'Weihua Li', 'Yi Yang', 'Hanyu Wei', 'Jianhua Jiang', 'Quan Bai']",arXiv:2210.09549
+http://arxiv.org/abs/2210.09276v3,2022-10-17T17:27:32Z,Imagic: Text-Based Real Image Editing with Diffusion Models,"['Bahjat Kawar', 'Shiran Zada', 'Oran Lang', 'Omer Tov', 'Huiwen Chang', 'Tali Dekel', 'Inbar Mosseri', 'Michal Irani']",arXiv:2210.09276
+http://arxiv.org/abs/2210.08573v1,2022-10-16T16:08:47Z,"DiffGAR: Model-Agnostic Restoration from Generative Artifacts Using
+  Image-to-Image Diffusion Models","['Yueqin Yin', 'Lianghua Huang', 'Yu Liu', 'Kaiqi Huang']",arXiv:2210.08573
+http://arxiv.org/abs/2210.05872v1,2022-10-12T02:21:18Z,"Leveraging Off-the-shelf Diffusion Model for Multi-attribute Fashion
+  Image Manipulation","['Chaerin Kong', 'DongHyeon Jeon', 'Ohjoon Kwon', 'Nojun Kwak']",arXiv:2210.05872
+http://arxiv.org/abs/2210.05147v1,2022-10-11T04:56:12Z,Markup-to-Image Diffusion Models with Scheduled Sampling,"['Yuntian Deng', 'Noriyuki Kojima', 'Alexander M. Rush']",arXiv:2210.05147
+http://arxiv.org/abs/2210.04559v1,2022-10-10T10:55:53Z,CLIP-Diffusion-LM: Apply Diffusion Model on Image Captioning,['Shitong Xu'],arXiv:2210.04559
+http://arxiv.org/abs/2210.09292v2,2022-10-07T06:46:13Z,Efficient Diffusion Models for Vision: A Survey,"['Anwaar Ulhaq', 'Naveed Akhtar', 'Ganna Pogrebna']",arXiv:2210.09292
+http://arxiv.org/abs/2210.02249v1,2022-10-05T13:26:15Z,"LDEdit: Towards Generalized Text Guided Image Manipulation via Latent
+  Diffusion Models","['Paramanand Chandramouli', 'Kanchana Vaishnavi Gandikota']",arXiv:2210.02249
+http://arxiv.org/abs/2209.15264v2,2022-09-30T06:44:37Z,"Diffusion-based Image Translation using Disentangled Style and Content
+  Representation","['Gihyun Kwon', 'Jong Chul Ye']",arXiv:2209.15264
+http://arxiv.org/abs/2209.13371v2,2022-09-27T13:17:45Z,"Recommendations and guidelines from the ISMRM Diffusion Study Group for
+  preclinical diffusion MRI: Part 2 -- Ex vivo imaging","['Kurt G Schilling', 'Francesco Grussu', 'Andrada Ianus', 'Brian Hansen', 'Rachel L C Barrett', 'Manisha Aggarwal', 'Stijn Michielse', 'Fatima Nasrallah', 'Warda Syeda', 'Nian Wang', 'Jelle Veraart', 'Alard Roebroeck', 'Andrew F Bagdasarian', 'Cornelius Eichner', 'Farshid Sepehrband', 'Jan Zimmermann', 'Lucas Soustelle', 'Christien Bowman', 'Benjamin C Tendler', 'Andreea Hertanu', 'Ben Jeurissen', 'Lucio Frydman', 'Yohan van de Looij', 'David Hike', 'Jeff F Dunn', 'Karla Miller', 'Bennett A Landman', 'Noam Shemesh', 'Adam Anderson', 'Emilie McKinnon', 'Shawna Farquharson', ""Flavio Dell' Acqua"", 'Carlo Pierpaoli', 'Ivana Drobnjak', 'Alexander Leemans', 'Kevin D Harkins', 'Maxime Descoteaux', 'Duan Xu', 'Hao Huang', 'Mathieu D Santin', 'Samuel C. Grant', 'Andre Obenaus', 'Gene S Kim', 'Dan Wu', 'Denis Le Bihan', 'Stephen J Blackband', 'Luisa Ciobanu', 'Els Fieremans', 'Ruiliang Bai', 'Trygve Leergaard', 'Jiangyang Zhang', 'Tim B Dyrby', 'G Allan Johnson', 'Julien Cohen-Adad', 'Matthew D Budde', 'Ileana O Jelescu']",arXiv:2209.13371
+http://arxiv.org/abs/2209.13167v2,2022-09-27T05:58:35Z,"A Morphology Focused Diffusion Probabilistic Model for Synthesis of
+  Histopathology Images","['Puria Azadi Moghadam', 'Sanne Van Dalen', 'Karina C. Martin', 'Jochen Lennerz', 'Stephen Yip', 'Hossein Farahani', 'Ali Bashashati']",arXiv:2209.13167
+http://arxiv.org/abs/2209.12104v2,2022-09-24T23:50:54Z,"Conversion Between CT and MRI Images Using Diffusion and Score-Matching
+  Models","['Qing Lyu', 'Ge Wang']",arXiv:2209.12104
+http://arxiv.org/abs/2209.11047v3,2022-09-22T14:43:52Z,"MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image
+  Translation","['Junyoung Seo', 'Gyuseong Lee', 'Seokju Cho', 'Jiyoung Lee', 'Seungryong Kim']",arXiv:2209.11047
+http://arxiv.org/abs/2209.10948v1,2022-09-22T12:03:33Z,"Implementing and Experimenting with Diffusion Models for Text-to-Image
+  Generation",['Robin Zbinden'],arXiv:2209.10948
+http://arxiv.org/abs/2209.07162v1,2022-09-15T09:16:21Z,Brain Imaging Generation with Latent Diffusion Models,"['Walter H. L. Pinaya', 'Petru-Daniel Tudosiu', 'Jessica Dafflon', 'Pedro F da Costa', 'Virginia Fernandez', 'Parashkev Nachev', 'Sebastien Ourselin', 'M. Jorge Cardoso']",arXiv:2209.07162
+http://arxiv.org/abs/2209.06950v4,2022-09-14T21:53:27Z,Lossy Image Compression with Conditional Diffusion Models,"['Ruihan Yang', 'Stephan Mandt']",arXiv:2209.06950
+http://arxiv.org/abs/2209.06167v2,2022-09-13T17:13:44Z,PET image denoising based on denoising diffusion probabilistic models,"['Kuang Gong', 'Keith A. Johnson', 'Georges El Fakhri', 'Quanzheng Li', 'Tinsu Pan']",arXiv:2209.06167
+http://arxiv.org/abs/2209.04747v5,2022-09-10T22:00:30Z,Diffusion Models in Vision: A Survey,"['Florinel-Alin Croitoru', 'Vlad Hondru', 'Radu Tudor Ionescu', 'Mubarak Shah']",arXiv:2209.04747
+http://arxiv.org/abs/2208.14125v3,2022-08-30T10:21:40Z,A Diffusion Model Predicts 3D Shapes from 2D Microscopy Images,"['Dominik J. E. Waibel', 'Ernst Röell', 'Bastian Rieck', 'Raja Giryes', 'Carsten Marr']",arXiv:2208.14125
+http://arxiv.org/abs/2208.13753v2,2022-08-29T17:37:29Z,Frido: Feature Pyramid Diffusion for Complex Scene Image Synthesis,"['Wan-Cyuan Fan', 'Yen-Chun Chen', 'Dongdong Chen', 'Yu Cheng', 'Lu Yuan', 'Yu-Chiang Frank Wang']",arXiv:2208.13753
+http://arxiv.org/abs/2208.13328v1,2022-08-29T01:39:16Z,"Slice estimation in diffusion MRI of neonatal and fetal brains in image
+  and spherical harmonics domains using autoencoders","['Hamza Kebiri', 'Gabriel Girard', 'Yasser Aleman-Gomez', 'Thomas Yu', 'Andras Jakab', 'Erick Jorge Canales-Rodriguez', 'Meritxell Bach Cuadra']",arXiv:2208.13328
+http://arxiv.org/abs/2208.12675v2,2022-08-26T13:59:26Z,"Adaptively-Realistic Image Generation from Stroke and Sketch with
+  Diffusion Model","['Shin-I Cheng', 'Yu-Jie Chen', 'Wei-Chen Chiu', 'Hung-Yu Tseng', 'Hsin-Ying Lee']",arXiv:2208.12675
+http://arxiv.org/abs/2208.12242v2,2022-08-25T17:45:49Z,"DreamBooth: Fine Tuning Text-to-Image Diffusion Models for
+  Subject-Driven Generation","['Nataniel Ruiz', 'Yuanzhen Li', 'Varun Jampani', 'Yael Pritch', 'Michael Rubinstein', 'Kfir Aberman']",arXiv:2208.12242
+http://arxiv.org/abs/2208.10623v1,2022-08-22T22:01:44Z,"Three-dimensional micro-structurally informed in silico myocardium --
+  towards virtual imaging trials in cardiac diffusion weighted MRI","['Mojtaba Lashgari', 'Nishant Ravikumar', 'Irvin Teh', 'Jing-Rebecca Li', 'David L. Buckley', 'Jurgen E. Schneider', 'Alejandro F. Frangi']",arXiv:2208.10623
+http://arxiv.org/abs/2208.09392v1,2022-08-19T15:18:39Z,Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise,"['Arpit Bansal', 'Eitan Borgnia', 'Hong-Min Chu', 'Jie S. Li', 'Hamid Kazemi', 'Furong Huang', 'Micah Goldblum', 'Jonas Geiping', 'Tom Goldstein']",arXiv:2208.09392
+http://arxiv.org/abs/2208.08664v2,2022-08-18T06:51:23Z,"Enhancing Diffusion-Based Image Synthesis with Robust Classifier
+  Guidance","['Bahjat Kawar', 'Roy Ganz', 'Michael Elad']",arXiv:2208.08664
+http://arxiv.org/abs/2208.07348v1,2022-08-15T17:28:31Z,"Understanding the effects of charge diffusion in next-generation soft
+  X-ray imagers","['Eric D. Miller', 'Gregory Y. Prigozhin', 'Beverly J. LaMarr', 'Marshall W. Bautz', 'Richard F. Foster', 'Catherine E. Grant', 'Craig S. Lage', 'Christopher Leitz', 'Andrew Malonis']",arXiv:2208.07348
+http://arxiv.org/abs/2208.03968v1,2022-08-08T08:26:08Z,"All-optical image classification through unknown random diffusers using
+  a single-pixel diffractive network","['Yi Luo', 'Bijie Bai', 'Yuhang Li', 'Ege Cetintas', 'Aydogan Ozcan']",arXiv:2208.03968
+http://arxiv.org/abs/2208.03337v1,2022-08-04T08:56:42Z,Estimating relative diffusion from 3D micro-CT images using CNNs,"['Stephan Gärttner', 'Florian Frank', 'Fabian Woller', 'Andreas Meier', 'Nadja Ray']",arXiv:2208.03337
+http://arxiv.org/abs/2207.14626v2,2022-07-29T11:52:41Z,"Restoring Vision in Adverse Weather Conditions with Patch-Based
+  Denoising Diffusion Models","['Ozan Özdenizci', 'Robert Legenstein']",arXiv:2207.14626
+http://arxiv.org/abs/2207.13038v1,2022-07-26T16:56:51Z,"Text-Guided Synthesis of Artistic Images with Retrieval-Augmented
+  Diffusion Models","['Robin Rombach', 'Andreas Blattmann', 'Björn Ommer']",arXiv:2207.13038
+http://arxiv.org/abs/2207.08321v2,2022-07-18T00:09:57Z,"Spatial Autoregressive von-Mises Fisher Regression for Diffusion Tensor
+  Imaging","['Zhou Lan', 'Arkaprava Roy']",arXiv:2207.08321
+http://arxiv.org/abs/2207.08208v3,2022-07-17T15:53:24Z,Unsupervised Medical Image Translation with Adversarial Diffusion Models,"['Muzaffer Özbey', 'Onat Dalmaz', 'Salman UH Dar', 'Hasan A Bedel', 'Şaban Özturk', 'Alper Güngör', 'Tolga Çukur']",arXiv:2207.08208
+http://arxiv.org/abs/2207.11192v2,2022-07-16T15:00:21Z,"Progressive Deblurring of Diffusion Models for Coarse-to-Fine Image
+  Synthesis","['Sangyun Lee', 'Hyungjin Chung', 'Jaehyeon Kim', 'Jong Chul Ye']",arXiv:2207.11192
+http://arxiv.org/abs/2207.07778v2,2022-07-15T23:00:56Z,"High-resolution diffusion-weighted imaging at 7 Tesla: single-shot
+  readout trajectories and their impact on signal-to-noise ratio, spatial
+  resolution and accuracy","['Sajjad Feizollah', 'Christine L. Tardif']",arXiv:2207.07778
+http://arxiv.org/abs/2207.00050v2,2022-06-30T18:31:51Z,Semantic Image Synthesis via Diffusion Models,"['Weilun Wang', 'Jianmin Bao', 'Wengang Zhou', 'Dongdong Chen', 'Dong Chen', 'Lu Yuan', 'Houqiang Li']",arXiv:2207.00050
+http://arxiv.org/abs/2206.13295v1,2022-06-27T13:37:57Z,Diffusion Deformable Model for 4D Temporal Medical Image Generation,"['Boah Kim', 'Jong Chul Ye']",arXiv:2206.13295
+http://arxiv.org/abs/2206.12712v1,2022-06-25T18:53:36Z,"Persistent hot carrier diffusion in boron arsenide single crystals
+  imaged by ultrafast electron microscopy","['Usama Choudhry', 'Fengjiao Pan', 'Taeyong Kim', 'Ryan Gnabasik', 'Geethal Amila Gamage', 'Haoran Sun', 'Alex Ackerman', 'Zhifeng Ren', 'Bolin Liao']",arXiv:2206.12712
+http://arxiv.org/abs/2206.10005v1,2022-06-20T21:09:36Z,"Feasibility study of clinical target volume definition for soft-tissue
+  sarcoma using muscle fiber orientations derived from diffusion tensor imaging","['Nadya Shusharina', 'Xiaofeng Liu', 'Jaume Coll-Font', 'Anna Foster', 'Georges El Fakhri', 'Jonghye Woo', 'Thomas Bortfeld', 'Christopher Nguyen']",arXiv:2206.10005
+http://arxiv.org/abs/2206.07771v2,2022-06-15T19:13:49Z,"Discrete Contrastive Diffusion for Cross-Modal Music and Image
+  Generation","['Ye Zhu', 'Yu Wu', 'Kyle Olszewski', 'Jian Ren', 'Sergey Tulyakov', 'Yan Yan']",arXiv:2206.07771
+http://arxiv.org/abs/2206.06846v2,2022-06-14T13:40:55Z,"Combining Image Space and q-Space PDEs for Lossless Compression of
+  Diffusion MR Images","['Ikram Jumakulyyev', 'Thomas Schultz']",arXiv:2206.06846
+http://arxiv.org/abs/2206.05039v1,2022-06-10T12:23:05Z,"Image Generation with Multimodal Priors using Denoising Diffusion
+  Probabilistic Models","['Nithin Gopalakrishnan Nair', 'Wele Gedara Chaminda Bandara', 'Vishal M Patel']",arXiv:2206.05039
+http://arxiv.org/abs/2206.00386v1,2022-06-01T10:39:12Z,DiVAE: Photorealistic Images Synthesis with Denoising Diffusion Decoder,"['Jie Shi', 'Chenfei Wu', 'Jian Liang', 'Xiang Liu', 'Nan Duan']",arXiv:2206.00386
+http://arxiv.org/abs/2206.00305v1,2022-06-01T08:14:35Z,"Supervised Denoising of Diffusion-Weighted Magnetic Resonance Images
+  Using a Convolutional Neural Network and Transfer Learning","['Jakub Jurek', 'Andrzej Materka', 'Kamil Ludwisiak', 'Agata Majos', 'Kamil Gorczewski', 'Kamil Cepuch', 'Agata Zawadzka']",arXiv:2206.00305
+http://arxiv.org/abs/2205.11487v1,2022-05-23T17:42:53Z,"Photorealistic Text-to-Image Diffusion Models with Deep Language
+  Understanding","['Chitwan Saharia', 'William Chan', 'Saurabh Saxena', 'Lala Li', 'Jay Whang', 'Emily Denton', 'Seyed Kamyar Seyed Ghasemipour', 'Burcu Karagol Ayan', 'S. Sara Mahdavi', 'Rapha Gontijo Lopes', 'Tim Salimans', 'Jonathan Ho', 'David J Fleet', 'Mohammad Norouzi']",arXiv:2205.11487
+http://arxiv.org/abs/2205.07680v2,2022-05-16T13:47:02Z,BBDM: Image-to-image Translation with Brownian Bridge Diffusion Models,"['Bo Li', 'Kaitao Xue', 'Bin Liu', 'Yu-Kun Lai']",arXiv:2205.07680
+http://arxiv.org/abs/2205.03859v1,2022-05-08T13:18:14Z,"On Conditioning the Input Noise for Controlled Image Generation with
+  Diffusion Models","['Vedant Singh', 'Surgan Jandial', 'Ayush Chopra', 'Siddharth Ramesh', 'Balaji Krishnamurthy', 'Vineeth N. Balasubramanian']",arXiv:2205.03859
+http://arxiv.org/abs/2204.13497v1,2022-04-28T13:42:12Z,"Unsupervised Spatial-spectral Hyperspectral Image Reconstruction and
+  Clustering with Diffusion Geometry","['Kangning Cui', 'Ruoning Li', 'Sam L. Polk', 'James M. Murphy', 'Robert J. Plemmons', 'Raymond H. Chan']",arXiv:2204.13497
+http://arxiv.org/abs/2204.13475v1,2022-04-28T13:09:03Z,"High-Order Discretization of Backward Anisotropic Diffusion and
+  Application to Image Processing","['Lorella Fatone', 'Daniele Funaro']",arXiv:2204.13475
+http://arxiv.org/abs/2204.09041v1,2022-04-19T17:58:49Z,"Unsupervised detection of ash dieback disease (Hymenoscyphus fraxineus)
+  using diffusion-based hyperspectral image clustering","['Sam L. Polk', 'Aland H. Y. Chan', 'Kangning Cui', 'Robert J. Plemmons', 'David A. Coomes', 'James M. Murphy']",arXiv:2204.09041
+http://arxiv.org/abs/2204.07966v1,2022-04-17T09:51:56Z,MRXCAT-CDTI: A Numerical Cardiac Diffusion Tensor Imaging Phantom,"['Robbert J. H. van Gorkum', 'Jonathan L. Weine', 'William P. Segars', 'Christian T. Stoeck', 'Sebastian Kozerke']",arXiv:2204.07966
+http://arxiv.org/abs/2204.07582v2,2022-04-15T16:58:51Z,"High resolution TCSPC imaging of diffuse light with a one-dimensional
+  SPAD array scanning system","['E. P. McShane', 'H. K. Chandrasekharan', 'A. Kufcsák', 'N. Finlayson', 'A. T. Erdogan', 'R. K. Henderson', 'K. Dhaliwal', 'R. R. Thomson', 'M. G. Tanner']",arXiv:2204.07582
+http://arxiv.org/abs/2204.06298v1,2022-04-13T11:00:52Z,"Active Diffusion and VCA-Assisted Image Segmentation of Hyperspectral
+  Images","['Sam L. Polk', 'Kangning Cui', 'Robert J. Plemmons', 'James M. Murphy']",arXiv:2204.06298
+http://arxiv.org/abs/2204.02641v1,2022-04-06T07:52:06Z,"The Swiss Army Knife for Image-to-Image Translation: Multi-Task
+  Diffusion Models","['Julia Wolleb', 'Robin Sandkühler', 'Florentin Bieder', 'Philippe C. Cattin']",arXiv:2204.02641
+http://arxiv.org/abs/2203.14559v2,2022-03-28T08:01:15Z,"A Paired Phase and Magnitude Reconstruction for Advanced
+  Diffusion-Weighted Imaging","['Chen Qian', 'Zi Wang', 'Xinlin Zhang', 'Boxuan Shi', 'Boyu Jiang', 'Ran Tao', 'Jing Li', 'Yuwei Ge', 'Taishan Kang', 'Jianzhong Lin', 'Di Guo', 'Xiaobo Qu']",arXiv:2203.14559
+http://arxiv.org/abs/2203.12621v1,2022-03-23T10:35:06Z,"MR Image Denoising and Super-Resolution Using Regularized Reverse
+  Diffusion","['Hyungjin Chung', 'Eun Sun Lee', 'Jong Chul Ye']",arXiv:2203.12621
+http://arxiv.org/abs/2203.09992v3,2022-03-18T14:39:42Z,"Unsupervised Diffusion and Volume Maximization-Based Clustering of
+  Hyperspectral Images","['Sam L. Polk', 'Kangning Cui', 'Aland H. Y. Chan', 'David A. Coomes', 'Robert J. Plemmons', 'James M. Murphy']",arXiv:2203.09992
+http://arxiv.org/abs/2203.08382v4,2022-03-16T04:10:45Z,Dual Diffusion Implicit Bridges for Image-to-Image Translation,"['Xuan Su', 'Jiaming Song', 'Chenlin Meng', 'Stefano Ermon']",arXiv:2203.08382
+http://arxiv.org/abs/2203.07327v2,2022-03-14T17:30:43Z,"Improved reproducibility of diffusion kurtosis imaging using regularized
+  non-linear optimization informed by artificial neural networks","['Leevi Kerkelä', 'Kiran Seunarine', 'Rafael Neto Henriques', 'Jonathan D. Clayden', 'Chris A. Clark']",arXiv:2203.07327
+http://arxiv.org/abs/2203.03623v1,2022-03-05T07:37:45Z,"Measurement-conditioned Denoising Diffusion Probabilistic Model for
+  Under-sampled Medical Image Reconstruction","['Yutong Xie', 'Quanzheng Li']",arXiv:2203.03623
+http://arxiv.org/abs/2202.09912v1,2022-02-20T21:44:07Z,"Deep learning-guided weighted averaging for signal dropout compensation
+  in diffusion-weighted imaging of the liver","['Fasil Gadjimuradov', 'Thomas Benkert', 'Marcel Dominik Nickel', 'Tobit Führes', 'Marc Saake', 'Andreas Maier']",arXiv:2202.09912
+http://arxiv.org/abs/2201.09509v1,2022-01-24T08:05:33Z,Diffuse ultrasound computed tomography for medical imaging,"['Ines Elisa Ulrich', 'Christian Boehm', 'Andrea Zunino', 'Cyrill Bösch', 'Andreas Fichtner']",arXiv:2201.09509
+http://arxiv.org/abs/2112.10752v2,2021-12-20T18:55:25Z,High-Resolution Image Synthesis with Latent Diffusion Models,"['Robin Rombach', 'Andreas Blattmann', 'Dominik Lorenz', 'Patrick Esser', 'Björn Ommer']",arXiv:2112.10752
+http://arxiv.org/abs/2112.10741v3,2021-12-20T18:42:55Z,"GLIDE: Towards Photorealistic Image Generation and Editing with
+  Text-Guided Diffusion Models","['Alex Nichol', 'Prafulla Dhariwal', 'Aditya Ramesh', 'Pranav Shyam', 'Pamela Mishkin', 'Bob McGrew', 'Ilya Sutskever', 'Mark Chen']",arXiv:2112.10741
+http://arxiv.org/abs/2112.05744v4,2021-12-10T18:55:50Z,More Control for Free! Image Synthesis with Semantic Diffusion Guidance,"['Xihui Liu', 'Dong Huk Park', 'Samaneh Azadi', 'Gong Zhang', 'Arman Chopikyan', 'Yuxiao Hu', 'Humphrey Shi', 'Anna Rohrbach', 'Trevor Darrell']",arXiv:2112.05744
+http://arxiv.org/abs/2112.05149v2,2021-12-09T08:41:23Z,"DiffuseMorph: Unsupervised Deformable Image Registration Using Diffusion
+  Model","['Boah Kim', 'Inhwa Han', 'Jong Chul Ye']",arXiv:2112.05149
+http://arxiv.org/abs/2112.03145v2,2021-12-06T16:28:15Z,Diffusion Models for Implicit Image Segmentation Ensembles,"['Julia Wolleb', 'Robin Sandkühler', 'Florentin Bieder', 'Philippe Valmaggia', 'Philippe C. Cattin']",arXiv:2112.03145
+http://arxiv.org/abs/2112.01799v1,2021-12-03T09:09:34Z,"Global Context with Discrete Diffusion in Vector Quantised Modelling for
+  Image Generation","['Minghui Hu', 'Yujie Wang', 'Tat-Jen Cham', 'Jianfei Yang', 'P. N. Suganthan']",arXiv:2112.01799
+http://arxiv.org/abs/2112.00390v3,2021-12-01T10:17:25Z,SegDiff: Image Segmentation with Diffusion Probabilistic Models,"['Tomer Amit', 'Tal Shaharbany', 'Eliya Nachmani', 'Lior Wolf']",arXiv:2112.00390
+http://arxiv.org/abs/2111.14822v3,2021-11-29T18:59:46Z,Vector Quantized Diffusion Model for Text-to-Image Synthesis,"['Shuyang Gu', 'Dong Chen', 'Jianmin Bao', 'Fang Wen', 'Bo Zhang', 'Dongdong Chen', 'Lu Yuan', 'Baining Guo']",arXiv:2111.14822
+http://arxiv.org/abs/2111.14818v2,2021-11-29T18:58:49Z,Blended Diffusion for Text-driven Editing of Natural Images,"['Omri Avrahami', 'Dani Lischinski', 'Ohad Fried']",arXiv:2111.14818
+http://arxiv.org/abs/2111.13606v1,2021-11-26T17:10:07Z,Conditional Image Generation with Score-Based Diffusion Models,"['Georgios Batzolis', 'Jan Stanczuk', 'Carola-Bibiane Schönlieb', 'Christian Etmann']",arXiv:2111.13606
+http://arxiv.org/abs/2111.12701v1,2021-11-24T18:55:14Z,"Unleashing Transformers: Parallel Token Prediction with Discrete
+  Absorbing Diffusion for Fast High-Resolution Image Generation from
+  Vector-Quantized Codes","['Sam Bond-Taylor', 'Peter Hessey', 'Hiroshi Sasaki', 'Toby P. Breckon', 'Chris G. Willcocks']",arXiv:2111.12701
+http://arxiv.org/abs/2111.08227v1,2021-11-16T04:59:25Z,Phase function estimation from a diffuse optical image via deep learning,"['Yuxuan Liang', 'Chuang Niu', 'Chen Wei', 'Shenghan Ren', 'Wenxiang Cong', 'Ge Wang']",arXiv:2111.08227
+http://arxiv.org/abs/2111.05826v2,2021-11-10T17:49:29Z,Palette: Image-to-Image Diffusion Models,"['Chitwan Saharia', 'William Chan', 'Huiwen Chang', 'Chris A. Lee', 'Jonathan Ho', 'Tim Salimans', 'David J. Fleet', 'Mohammad Norouzi']",arXiv:2111.05826
+http://arxiv.org/abs/2111.15479v1,2021-11-10T13:54:37Z,"Analysis of Multiscale Wavelet-based Fractional Gradient-Anisotropic
+  Diffusion Fusion for single hazy and underwater image enhancement",['Uche A. Nnolim'],arXiv:2111.15479
+http://arxiv.org/abs/2110.04860v1,2021-10-10T17:26:59Z,Diffusion pore imaging in the presence of extraporal water,"['Dominik Ludwig', 'Frederik Bernd Laun', 'Karel D. Klika', 'Julian Rauch', 'Mark Edward Ladd', 'Peter Bachert', 'Tristan Anselm Kuder']",arXiv:2110.04860
+http://arxiv.org/abs/2110.02711v6,2021-10-06T12:59:39Z,"DiffusionCLIP: Text-Guided Diffusion Models for Robust Image
+  Manipulation","['Gwanghyun Kim', 'Taesung Kwon', 'Jong Chul Ye']",arXiv:2110.02711
+http://arxiv.org/abs/2110.02636v4,2021-10-06T10:20:59Z,Learning Sparse Masks for Diffusion-based Image Inpainting,"['Tobias Alt', 'Pascal Peter', 'Joachim Weickert']",arXiv:2110.02636
+http://arxiv.org/abs/2109.13607v1,2021-09-28T10:40:22Z,"An extended Krylov subspace method for decoding edge-based compressed
+  images by homogeneous diffusion","['Volker Grimm', 'Kevin Liang']",arXiv:2109.13607
+http://arxiv.org/abs/2109.00052v1,2021-08-31T19:33:34Z,"The fillet of a rock on the Moon: Cohesion and size dependent abrasion
+  rates from topographic diffusion, LRO/NAC and Apollo images","['O. Ruesch', 'C. Woehler']",arXiv:2109.00052
+http://arxiv.org/abs/2108.08827v1,2021-08-19T17:50:07Z,"ImageBART: Bidirectional Context with Multinomial Diffusion for
+  Autoregressive Image Synthesis","['Patrick Esser', 'Robin Rombach', 'Andreas Blattmann', 'Björn Ommer']",arXiv:2108.08827
+http://arxiv.org/abs/2108.07291v1,2021-08-16T18:00:32Z,"Subarcsecond LOFAR imaging of Arp299 at 150 MHz. Tracing the nuclear and
+  diffuse extended emission of a bright LIRG","['Naím Ramírez-Olivencia', 'Eskil Varenius', 'Miguel Pérez-Torres', 'Antonio Alberdi', 'John Conway', 'Almudena Alonso-Herrero', 'Miguel Pereira-Santaella', 'Rubén Herrero-Illana']",arXiv:2108.07291
+http://arxiv.org/abs/2108.06121v2,2021-08-13T08:34:03Z,"Neurite Exchange Imaging (NEXI): A minimal model of diffusion in gray
+  matter with inter-compartment water exchange","['Ileana O. Jelescu', 'Alexandre de Skowronski', 'Françoise Geffroy', 'Marco Palombo', 'Dmitry S. Novikov']",arXiv:2108.06121
+http://arxiv.org/abs/2108.04427v2,2021-08-10T03:21:36Z,"Synthetic Correlated Diffusion Imaging Hyperintensity Delineates
+  Clinically Significant Prostate Cancer","['Alexander Wong', 'Hayden Gunraj', 'Vignesh Sivan', 'Masoom A. Haider']",arXiv:2108.04427
+http://arxiv.org/abs/2108.04135v2,2021-08-09T16:00:40Z,"Manifold-aware Synthesis of High-resolution Diffusion from Structural
+  Imaging","['Benoit Anctil-Robitaille', 'Antoine Théberge', 'Pierre-Marc Jodoin', 'Maxime Descoteaux', 'Christian Desrosiers', 'Hervé Lombaert']",arXiv:2108.04135
+http://arxiv.org/abs/2108.02296v1,2021-08-04T21:52:40Z,"Superior Photo-carrier Diffusion Dynamics in Organic-inorganic Hybrid
+  Perovskites Revealed by Spatiotemporal Conductivity Imaging","['Xuejian Ma', 'Fei Zhang', 'Zhaodong Chu', 'Ji Hao', 'Xihan Chen', 'Jiamin Quan', 'Zhiyuan Huang', 'Xiaoming Wang', 'Xiaoqin Li', 'Yanfa Yan', 'Kai Zhu', 'Keji Lai']",arXiv:2108.02296
+http://arxiv.org/abs/2107.08118v1,2021-07-16T21:03:42Z,"Inverse transport and diffusion problems in photoacoustic imaging with
+  nonlinear absorption","['Ru-Yu Lai', 'Kui Ren', 'Ting Zhou']",arXiv:2107.08118
+http://arxiv.org/abs/2107.06586v1,2021-07-14T10:11:50Z,"Computational Imaging Without a Computer: Seeing Through Random
+  Diffusers at the Speed of Light","['Yi Luo', 'Yifan Zhao', 'Jingxi Li', 'Ege Cetintas', 'Yair Rivenson', 'Mona Jarrahi', 'Aydogan Ozcan']",arXiv:2107.06586
+http://arxiv.org/abs/2106.13188v1,2021-06-24T17:09:40Z,"Q-space Conditioned Translation Networks for Directional Synthesis of
+  Diffusion Weighted Images from Multi-modal Structural MRI","['Mengwei Ren', 'Heejong Kim', 'Neel Dey', 'Guido Gerig']",arXiv:2106.13188
+http://arxiv.org/abs/2106.08917v2,2021-06-16T16:17:34Z,"Differentiable Diffusion for Dense Depth Estimation from Multi-view
+  Images","['Numair Khan', 'Min H. Kim', 'James Tompkin']",arXiv:2106.08917
+http://arxiv.org/abs/2106.15282v3,2021-05-30T17:14:52Z,Cascaded Diffusion Models for High Fidelity Image Generation,"['Jonathan Ho', 'Chitwan Saharia', 'William Chan', 'David J. Fleet', 'Mohammad Norouzi', 'Tim Salimans']",arXiv:2106.15282
+http://arxiv.org/abs/2105.09378v2,2021-05-19T20:00:04Z,"Robust partial Fourier reconstruction for diffusion-weighted imaging
+  using a recurrent convolutional neural network","['Fasil Gadjimuradov', 'Thomas Benkert', 'Marcel Dominik Nickel', 'Andreas Maier']",arXiv:2105.09378
+http://arxiv.org/abs/2105.06970v1,2021-05-14T17:18:58Z,"VEGAS: A VST Early-type GAlaxy Survey.VI. The diffuse light in HCG 86
+  from the ultra-deep VEGAS images","['Rossella Ragusa', 'Marilena Spavone', 'Enrichetta Iodice', 'Sarah Brough', 'Maria Angela Raj', 'Maurizio Paolillo', 'Michele Cantiello', 'Duncan A. Forbes', 'Antonio La Marca', 'Giuseppe D Ago', 'Roberto Rampazzo', 'Pietro Schipani']",arXiv:2105.06970
+http://arxiv.org/abs/2105.05233v4,2021-05-11T17:50:24Z,Diffusion Models Beat GANs on Image Synthesis,"['Prafulla Dhariwal', 'Alex Nichol']",arXiv:2105.05233
+http://arxiv.org/abs/2105.02627v1,2021-05-06T12:57:58Z,"NMR diffusion pore imaging: Experimental phase detection by double
+  diffusion encoding","['Kerstin Demberg', 'Frederik Bernd Laun', 'Johannes Windschuh', 'Reiner Umathum', 'Peter Bachert', 'Tristan Anselm Kuder']",arXiv:2105.02627
+http://arxiv.org/abs/2104.14951v2,2021-04-30T12:31:25Z,"SRDiff: Single Image Super-Resolution with Diffusion Probabilistic
+  Models","['Haoying Li', 'Yifan Yang', 'Meng Chang', 'Huajun Feng', 'Zhihai Xu', 'Qi Li', 'Yueting Chen']",arXiv:2104.14951
+http://arxiv.org/abs/2104.13917v1,2021-04-28T17:56:04Z,"LambdaUNet: 2.5D Stroke Lesion Segmentation of Diffusion-weighted MR
+  Images","['Yanglan Ou', 'Ye Yuan', 'Xiaolei Huang', 'Kelvin Wong', 'John Volpi', 'James Z. Wang', 'Stephen T. C. Wong']",arXiv:2104.13917
+http://arxiv.org/abs/2104.12478v1,2021-04-26T11:22:20Z,"A deep learning model for gastric diffuse-type adenocarcinoma
+  classification in whole slide images","['Fahdi Kanavati', 'Masayuki Tsuneki']",arXiv:2104.12478
+http://arxiv.org/abs/2104.07502v1,2021-04-15T14:51:22Z,"Multi-compartment diffusion MRI, T2 relaxometry and myelin water imaging
+  as neuroimaging descriptors for anomalous tissue detection","['Elda Fischi-Gomez', 'Jonathan Rafael-Patino', 'Marco Pizzolato', 'Gian Franco Piredda', 'Tom Hilbert', 'Tobias Kober', 'Erick J. Canales-Rodriguez', 'Jean-Philippe Thiran']",arXiv:2104.07502
+http://arxiv.org/abs/2104.05358v1,2021-04-12T11:22:56Z,"UNIT-DDPM: UNpaired Image Translation with Denoising Diffusion
+  Probabilistic Models","['Hiroshi Sasaki', 'Chris G. Willcocks', 'Toby P. Breckon']",arXiv:2104.05358
+http://arxiv.org/abs/2104.02066v2,2021-04-06T06:30:15Z,"Dopamine Transporter SPECT Image Classification for Neurodegenerative
+  Parkinsonism via Diffusion Maps and Machine Learning Classifiers","['Jun-En Ding', 'Chi-Hsiang Chu', 'Mong-Na Lo Huang', 'Chien-Ching Hsu']",arXiv:2104.02066
+http://arxiv.org/abs/2104.01904v3,2021-04-05T13:31:14Z,Imaging Se diffusion across the FeSe/SrTiO$_3$ interface,"[""Samantha O'Sullivan"", 'Ruizhe Kang', 'Jules A. Gardener', 'Austin J. Akey', 'Christian E. Matt', 'Jennifer E. Hoffman']",arXiv:2104.01904
+http://arxiv.org/abs/2103.16753v2,2021-03-31T01:22:19Z,"Optical Imaging of Chemically and Geometrically Controlled Interfacial
+  Diffusion and Redox in 2D van der Waals Space","['Haneul Kang', 'Sunmin Ryu']",arXiv:2103.16753
+http://arxiv.org/abs/2103.17256v1,2021-03-29T21:28:09Z,An image-incorporated immersed boundary method for diffusion equations,"['Andrew C. Chiang', 'Po-Nan Li', 'Soichi Wakatsuki']",arXiv:2103.17256
+http://arxiv.org/abs/2103.15783v2,2021-03-29T17:24:28Z,"Multiscale Clustering of Hyperspectral Images Through Spectral-Spatial
+  Diffusion Geometry","['Sam L. Polk', 'James M. Murphy']",arXiv:2103.15783
+http://arxiv.org/abs/2103.15252v1,2021-03-29T00:29:30Z,"Statistical Inference of Auto-correlated Eigenvalues with Applications
+  to Diffusion Tensor Imaging",['Zhou Lan'],arXiv:2103.15252
+http://arxiv.org/abs/2103.14485v2,2021-03-26T14:17:08Z,"aDWI-BIDS: an extension to the brain imaging data structure for advanced
+  diffusion weighted imaging","['James Gholam', 'Filip Szczepankiewicz', 'Chantal M. W. Tax', 'Lars Mueller', 'Emre Kopanoglu', 'Markus Nilsson', 'Santiago Aja-Fernandez', 'Matt Griffin', 'Derek K. Jones', 'Leandro Beltrachini']",arXiv:2103.14485
+http://arxiv.org/abs/2103.05285v1,2021-03-09T08:21:53Z,"3D-QCNet -- A Pipeline for Automated Artifact Detection in Diffusion MRI
+  images","['Adnan Ahmad', 'Drew Parker', 'Zahra Riahi Samani', 'Ragini Verma']",arXiv:2103.05285
+http://arxiv.org/abs/2102.12526v2,2021-02-24T19:42:27Z,Optimized Diffusion Imaging for Brain Structural Connectome Analysis,"['William Consagra', 'Arun Venkataraman', 'Zhengwu Zhang']",arXiv:2102.12526
+http://arxiv.org/abs/2101.11680v2,2021-01-27T20:33:55Z,"High Resolution, Deep Imaging Using Confocal Time-of-flight Diffuse
+  Optical Tomography","['Yongyi Zhao', 'Ankit Raghuram', 'Hyun K. Kim', 'Andreas H. Hielscher', 'Jacob T. Robinson', 'Ashok Veeraraghavan']",arXiv:2101.11680
+http://arxiv.org/abs/2101.03197v1,2021-01-08T19:38:54Z,Deep Diffusion Processes for Active Learning of Hyperspectral Images,"['Abiy Tasissa', 'Duc Nguyen', 'James Murphy']",arXiv:2101.03197
+http://arxiv.org/abs/2101.01753v1,2021-01-05T19:37:22Z,VLA Imaging of HI-bearing Ultra-Diffuse Galaxies from the ALFALFA Survey,"['Lexi Gault', 'Lukas Leisman', 'Elizabeth A. K. Adams', 'Pavel E. Mancera Piña', 'Kameron Reiter', 'Nicholas Smith', 'Michael Battipaglia', 'John M. Cannon', 'Filippo Fraternali', 'Martha P. Haynes', 'Elizabeth McAllan', 'Hannah J. Pagel', 'Katherine L. Rhode', 'John J. Salzer', 'Quinton Singer']",arXiv:2101.01753
+http://arxiv.org/abs/2101.01496v3,2021-01-05T13:17:41Z,"An efficient feature-preserving PDE algorithm for image denoising based
+  on a spatial-fractional anisotropic diffusion equation","['Maoyuan Xu', 'Xiaoping Xie']",arXiv:2101.01496
+http://arxiv.org/abs/2012.15424v1,2020-12-31T03:30:59Z,"Comparison of different approaches to single-molecule imaging of
+  enhanced enzyme diffusion","['Mengqi Xu', 'W. Benjamin Rogers', 'Wylie W. Ahmed', 'Jennifer L. Ross']",arXiv:2012.15424
+http://arxiv.org/abs/2012.12319v1,2020-12-22T19:44:05Z,"Letter to the Editor and Comments on: Intravital dynamic and correlative
+  imaging reveals diffusion-dominated canalicular and flow-augmented ductular
+  bile flux","['Lutz Brusch', 'Yannis Kalaidzidis', 'Kirstin Meyer', 'Ivo F. Sbalzarini', 'Marino Zerial']",arXiv:2012.12319
+http://arxiv.org/abs/2012.10517v1,2020-12-18T21:19:30Z,"Machine learning applications using diffusion tensor imaging of human
+  brain: A PubMed literature review","['Ashirbani Saha', 'Pantea Fadaiefard', 'Jessica E. Rabski', 'Alireza Sadeghian', 'Michael D. Cusimano']",arXiv:2012.10517
+http://arxiv.org/abs/2012.06478v2,2020-12-02T04:20:59Z,"Realistic Microstructure Simulator (RMS): Monte Carlo simulations of
+  diffusion in three-dimensional cell segmentations of microscopy images","['Hong-Hsi Lee', 'Els Fieremans', 'Dmitry S Novikov']",arXiv:2012.06478
+http://arxiv.org/abs/2012.00664v2,2020-12-01T17:37:09Z,"Navigator-Free Submillimeter Diffusion Imaging using Multishot-encoded
+  Simultaneous Multi-slice (MUSIUM)","['Wei-Tang Chang', 'Khoi Minh Huynh', 'Pew-Thian Yap', 'Weili Lin']",arXiv:2012.00664
+http://arxiv.org/abs/2011.07173v2,2020-11-14T00:04:07Z,Texture image classification based on a pseudo-parabolic diffusion model,"['Jardel Vieira', 'Eduardo Abreu', 'Joao B. Florindo']",arXiv:2011.07173
+http://arxiv.org/abs/2011.02913v1,2020-11-05T15:36:23Z,Double diffusion encoding and applications for biomedical imaging,"['Rafael N. Henriques', 'Marco Palombo', 'Sune N. Jespersen', 'Noam Shemesh', 'Henrik Lundell', 'Andrada Ianuş']",arXiv:2011.02913
+http://arxiv.org/abs/2011.00794v2,2020-11-02T07:47:10Z,"CaCL: Class-aware Codebook Learning for Weakly Supervised Segmentation
+  on Diffuse Image Patterns","['Ruining Deng', 'Quan Liu', 'Shunxing Bao', 'Aadarsh Jha', 'Catie Chang', 'Bryan A. Millis', 'Matthew J. Tyska', 'Yuankai Huo']",arXiv:2011.00794
+http://arxiv.org/abs/2010.07661v1,2020-10-15T11:01:46Z,"A Deep Drift-Diffusion Model for Image Aesthetic Score Distribution
+  Prediction","['Xin Jin', 'Xiqiao Li', 'Heng Huang', 'Xiaodong Li', 'Xinghui Zhou']",arXiv:2010.07661
+http://arxiv.org/abs/2010.07313v1,2020-10-14T18:00:04Z,"Stellar Velocity Dispersion and Dynamical Mass of the Ultra-Diffuse
+  Galaxy NGC 5846_UDG1 from the Keck Cosmic Web Imager","['Duncan A. Forbes', 'Jonah S. Gannon', 'Aaron J. Romanowsky', 'Adebusola Alabi', 'Jean P. Brodie', 'Warrick J. Couch', 'Anna Ferre-Mateu']",arXiv:2010.07313
+http://arxiv.org/abs/2008.13457v2,2020-08-31T09:47:20Z,"Image Convolution-Based Method and Statistical Modelling for
+  Experimental Height Estimations of Laminar to Transition-to-Turbulent Regime
+  Diffusion Flames","['M. De La Cruz-Ávila', 'J. E. De León-Ruiz', 'I. Carvajal-Mariscal', 'F. Peña-Polo', 'L. Di G. Sigalotti']",arXiv:2008.13457
+http://arxiv.org/abs/2008.10465v1,2020-08-24T14:14:45Z,The role of late photons in diffuse optical imaging,"['Jack Radford', 'Ashley Lyons', 'Francesco Tonolini', 'Daniele Faccio']",arXiv:2008.10465
+http://arxiv.org/abs/2007.13742v2,2020-07-27T16:59:38Z,Diffusion Equations for Medical Images,['Moo K. Chung'],arXiv:2007.13742
+http://arxiv.org/abs/2006.13944v1,2020-06-24T18:00:01Z,"Diffusion-Weighted Magnetic Resonance Brain Images Generation with
+  Generative Adversarial Networks and Variational Autoencoders: A Comparison
+  Study","['Alejandro Ungría Hirte', 'Moritz Platscher', 'Thomas Joyce', 'Jeremy J. Heit', 'Eric Tranvinh', 'Christian Federau']",arXiv:2006.13944
+http://arxiv.org/abs/2006.11117v1,2020-06-19T13:07:45Z,"A machine learning-based method for estimating the number and
+  orientations of major fascicles in diffusion-weighted magnetic resonance
+  imaging","['Davood Karimi', 'Lana Vasung', 'Camilo Jaimes', 'Fedel Machado-Rivas', 'Shadab Khan', 'Simon K. Warfield', 'Ali Gholipour']",arXiv:2006.11117
+http://arxiv.org/abs/2006.10406v1,2020-06-18T10:13:31Z,Fourth-Order Anisotropic Diffusion for Inpainting and Image Compression,"['Ikram Jumakulyyev', 'Thomas Schultz']",arXiv:2006.10406
+http://arxiv.org/abs/2006.00273v1,2020-05-30T13:57:02Z,"Positron Emission Tomography (PET) image enhancement using a gradient
+  vector orientation based nonlinear diffusion filter (GVOF) for accurate
+  quantitation of radioactivity concentration",['Mahbubunnabi Tamal'],arXiv:2006.00273
+http://arxiv.org/abs/2005.13150v1,2020-05-27T04:25:50Z,"Towards in vivo g-ratio mapping using MRI: unifying myelin and diffusion
+  imaging","['Siawoosh Mohammadi', 'Martina F. Callaghan']",arXiv:2005.13150
+http://arxiv.org/abs/2005.12838v1,2020-05-26T16:14:31Z,"Neuro4Neuro: A neural network approach for neural tract segmentation
+  using large-scale population-based diffusion imaging","['Bo Li', 'Marius de Groot', 'Rebecca M. E. Steketee', 'Rozanna Meijboom', 'Marion Smits', 'Meike W. Vernooij', 'M. Arfan Ikram', 'Jiren Liu', 'Wiro J. Niessen', 'Esther E. Bron']",arXiv:2005.12838
+http://arxiv.org/abs/2005.06926v1,2020-05-14T12:53:47Z,Diffusion tensor driven image registration: a deep learning approach,"['Irina Grigorescu', 'Alena Uus', 'Daan Christiaens', 'Lucilio Cordero-Grande', 'Jana Hutter', 'A. David Edwards', 'Joseph V. Hajnal', 'Marc Modat', 'Maria Deprez']",arXiv:2005.06926
+http://arxiv.org/abs/2004.07428v1,2020-04-16T02:58:39Z,"Heat Diffusion Imaging: In-Plane Thermal Conductivity Measurement of
+  Thin Films in a Broad Temperature Range","['T. Zhu', 'D. H. Olson', 'P. E. Hopkins', 'M. Zebarjadi']",arXiv:2004.07428
+http://arxiv.org/abs/2004.07340v2,2020-04-15T21:02:29Z,"Magic DIAMOND: Multi-Fascicle Diffusion Compartment Imaging with Tensor
+  Distribution Modeling and Tensor-Valued Diffusion Encoding","['A. Reymbaut', 'A. Valcourt Caron', 'G. Gilbert', 'F. Szczepankiewicz', 'M. Nilsson', 'S. K. Warfield', 'M. Descoteaux', 'B. Scherrer']",arXiv:2004.07340
+http://arxiv.org/abs/2004.00892v1,2020-04-02T09:19:26Z,"Contrast-to-noise ratio analysis of microscopic diffusion anisotropy
+  indices in q-space trajectory imaging","['Jan Martin', 'Sebastian Endt', 'Andreas Wetscherek', 'Tristan Anselm Kuder', 'Arnd Doerfler', 'Michael Uder', 'Bernhard Hensel', 'Frederik Bernd Laun']",arXiv:2004.00892
+http://arxiv.org/abs/2002.11911v2,2020-02-27T04:36:44Z,Diffuser-based computational imaging funduscope,"['Yunzhe Li', 'Gregory N. McKay', 'Nicholas J. Durr', 'Lei Tian']",arXiv:2002.11911
+http://arxiv.org/abs/2002.01031v4,2020-02-03T22:15:27Z,"SuperDTI: Ultrafast diffusion tensor imaging and fiber tractography with
+  deep learning","['Hongyu Li', 'Zifei Liang', 'Chaoyi Zhang', 'Ruiying Liu', 'Jing Li', 'Weihong Zhang', 'Dong Liang', 'Bowen Shen', 'Xiaoliang Zhang', 'Yulin Ge', 'Jiangyang Zhang', 'Leslie Ying']",arXiv:2002.01031
+http://arxiv.org/abs/2001.09232v1,2020-01-24T23:52:20Z,"Spatio-angular fluorescence microscopy III. Constrained angular
+  diffusion, polarized excitation, and high-NA imaging","['Talon Chandler', 'Hari Shroff', 'Rudolf Oldenbourg', 'Patrick La Rivière']",arXiv:2001.09232
+http://arxiv.org/abs/2001.07858v2,2020-01-22T03:00:55Z,On diffusive scaling in acousto-optic imaging,"['Francis J. Chung', 'Ru-Yu Lai', 'Qin Li']",arXiv:2001.07858
+http://arxiv.org/abs/2001.01284v2,2020-01-05T18:24:28Z,"Learning Global and Local Consistent Representations for Unsupervised
+  Image Retrieval via Deep Graph Diffusion Networks","['Zhiyong Dou', 'Haotian Cui', 'Lin Zhang', 'Bo Wang']",arXiv:2001.01284
+http://arxiv.org/abs/1912.07776v1,2019-12-17T01:26:06Z,"CNN-Based Invertible Wavelet Scattering for the Investigation of
+  Diffusion Properties of the In Vivo Human Heart in Diffusion Tensor Imaging","['Zeyu Deng', 'Lihui Wang', 'Zixiang Kuai', 'Qijian Chen', 'Xinyu Cheng', 'Feng Yang', 'Jie Yang', 'Yuemin Zhu']",arXiv:1912.07776
+http://arxiv.org/abs/1912.05532v1,2019-12-02T19:39:59Z,"Predicting Effective Diffusivity of Porous Media from Images by Deep
+  Learning","['Haiyi Wu', 'Wen-Zhen Fang', 'Qinjun Kang', 'Wen-Quan Tao', 'Rui Qiao']",arXiv:1912.05532
+http://arxiv.org/abs/1911.06816v1,2019-11-15T08:11:17Z,"QC-Automator: Deep Learning-based Automated Quality Control for
+  Diffusion MR Images","['Zahra Riahi Samani', 'Jacob Antony Alappatt', 'Drew Parker', 'Abdol Aziz Ould Ismail', 'Ragini Verma']",arXiv:1911.06816
+http://arxiv.org/abs/1911.02155v1,2019-11-06T00:58:24Z,"Spatially regularized active diffusion learning for high-dimensional
+  images",['James M. Murphy'],arXiv:1911.02155
+http://arxiv.org/abs/1910.13955v1,2019-10-30T16:11:23Z,LDLS: 3-D Object Segmentation Through Label Diffusion From 2-D Images,"['Brian H. Wang', 'Wei-Lun Chao', 'Yan Wang', 'Bharath Hariharan', 'Kilian Q. Weinberger', 'Mark Campbell']",arXiv:1910.13955
+http://arxiv.org/abs/1910.13823v2,2019-10-29T07:06:08Z,"Sharp images from diffuse beams: factorisation of the discrete delta
+  function","['I. D. Svalbe', 'D. M. Paganin', 'T. C. Petersen']",arXiv:1910.13823
+http://arxiv.org/abs/1909.09456v1,2019-09-20T12:35:44Z,"Deep Imaging of Diffuse Light Around Galaxies and Clusters: Progress and
+  Challenges",['J. Christopher Mihos'],arXiv:1909.09456
+http://arxiv.org/abs/1908.11646v2,2019-08-30T10:48:21Z,"On the Development of a Coupled Non-linear Telegraph-Diffusion Model for
+  Image Restoration","['Sudeb Majee', 'Subit K. Jain', 'Rajendra K. Ray', 'Ananta K. Majee']",arXiv:1908.11646
+http://arxiv.org/abs/1908.06896v1,2019-08-19T15:54:55Z,"Genetic Algorithms for the Optimization of Diffusion Parameters in
+  Content-Based Image Retrieval","['Federico Magliani', 'Laura Sani', 'Stefano Cagnoni', 'Andrea Prati']",arXiv:1908.06896
+http://arxiv.org/abs/1908.01147v2,2019-08-03T11:05:25Z,"A Gray Level Indicator-Based Regularized Telegraph Diffusion Equation
+  Applied to Image Despeckling","['Sudeb Majee', 'Rajendra K Ray', 'Ananta K Majee']",arXiv:1908.01147
+http://arxiv.org/abs/1907.04526v2,2019-07-10T06:00:57Z,"Analysis and Simulation of a Coupled Diffusion based Image Denoising
+  Model","['Subit K. Jain', 'Sudeb Majee', 'Rajendra K. Ray', 'Ananta K. Majee']",arXiv:1907.04526
+http://arxiv.org/abs/1907.02832v3,2019-07-05T13:55:09Z,"SANDI: a compartment-based model for non-invasive apparent soma and
+  neurite imaging by diffusion MRI","['Marco Palombo', 'Andrada Ianus', 'Daniel Nunes', 'Michele Guerreri', 'Daniel C. Alexander', 'Noam Shemesh', 'Hui Zhang']",arXiv:1907.02832
+http://arxiv.org/abs/1907.00908v3,2019-06-26T22:33:18Z,"Lattice Boltzmann method for simulation of diffusion magnetic resonance
+  imaging physics in multiphase tissue models","['Noel M. Naughton', 'Caroline G. Tennyson', 'John G. Georgiadis']",arXiv:1907.00908
+http://arxiv.org/abs/1906.10178v1,2019-06-24T19:02:38Z,"Improved Reconstruction for high-resolution Multi-shot Diffusion
+  Weighted Imaging","['Merry Mani', 'Hemant Kumar Aggarwal', 'Vincent Magnotta', 'Mathews Jacob']",arXiv:1906.10178
+http://arxiv.org/abs/1905.12056v4,2019-05-28T19:59:30Z,"Information-Theoretic Registration with Explicit Reorientation of
+  Diffusion-Weighted Images","['Henrik Grønholt Jensen', 'François Lauze', 'Sune Darkner']",arXiv:1905.12056
+http://arxiv.org/abs/1905.11242v1,2019-05-27T14:05:15Z,"Time-resolved imaging of non-diffusive carrier transport in
+  long-lifetime halide perovskite thin films","['Aravindan Sridharan', 'Nakita K. Noel', 'Hyeon Hwang', 'Soroush Hafezian', 'Barry P. Rand', 'Stéphane Kéna-Cohen']",arXiv:1905.11242
+http://arxiv.org/abs/1904.12292v4,2019-04-28T10:00:01Z,"A Multilayer Neural Network Merging Image Preprocessing and Pattern
+  Recognition by Integrating Diffusion and Drift Memristors","['Zhiri Tang', 'Ruohua Zhu', 'Ruihan Hu', 'Yanhua Chen', 'Edmond Q. Wu', 'Hao Wang', 'Jin He', 'Qijun Huang', 'Sheng Chang']",arXiv:1904.12292
+http://arxiv.org/abs/1904.10613v4,2019-04-24T02:43:03Z,"Defocused images removal of axial overlapping scattering particles by
+  using three-dimensional nonlinear diffusion based on digital holography","['Wei-Na Li', 'Zhengyun Zhang', 'Jianshe Ma', 'Xiaohao Wang', 'Ping Su']",arXiv:1904.10613
+http://arxiv.org/abs/1904.08668v1,2019-04-18T10:15:41Z,"An Efficient Approximate kNN Graph Method for Diffusion on Image
+  Retrieval","['Federico Magliani', 'Kevin McGuinness', 'Eva Mohedano', 'Andrea Prati']",arXiv:1904.08668
+http://arxiv.org/abs/1904.08552v1,2019-04-18T01:00:46Z,"Spin image of an atomic vapor cell with a resolution smaller than the
+  diffusion crosstalk free distance","['Haifeng Dong', 'Jingling Chen', 'Jimin Li', 'Chen Liu', 'Anxian Li', 'Nan Zhao', 'Fenzhuo Guo']",arXiv:1904.08552
+http://arxiv.org/abs/1904.07772v1,2019-04-16T15:45:28Z,"Cryo-Electron Microscopy Image Analysis Using Multi-Frequency Vector
+  Diffusion Maps","['Yifeng Fan', 'Zhizhen Zhao']",arXiv:1904.07772
+http://arxiv.org/abs/1904.07663v3,2019-04-16T13:39:55Z,"Diffusion Dispersion Imaging: Mapping OGSE Frequency Dependence in the
+  Human Brain","['Aidin Arbabi', 'Jason Kai', 'Ali R Khan', 'Corey A Baron']",arXiv:1904.07663
+http://arxiv.org/abs/1904.04091v2,2019-04-08T14:28:11Z,"Geostatistical Modeling of Positive Definite Matrices: An Application to
+  Diffusion Tensor Imaging","['Zhou Lan', 'Brian J. Reich', 'Joseph Guinness', 'Dipankar Bandyopadhyay', 'Liangsuo Ma', 'F. Gerard Moeller']",arXiv:1904.04091
+http://arxiv.org/abs/1903.08564v1,2019-03-19T16:59:16Z,"Incomplete Nutation Diffusion Imaging: an ultrafast, single-scan
+  approach for diffusion mapping","['Andrada Ianuş', 'Noam Shemesh']",arXiv:1903.08564
+http://arxiv.org/abs/1903.07509v1,2019-03-18T15:32:27Z,"A Spatial Bayesian Semiparametric Mixture Model for Positive Definite
+  Matrices with Applications to Diffusion Tensor Imaging","['Zhou Lan', 'Brian J. Reich', 'Dipankar Bandyopadhyay']",arXiv:1903.07509
+http://arxiv.org/abs/1903.02148v4,2019-03-06T03:06:55Z,"Image Dependent Conditional McKean-Vlasov SDEs for Measure-Valued
+  Diffusion Processes",['Feng-Yu Wang'],arXiv:1903.02148
+http://arxiv.org/abs/1902.06557v1,2019-02-18T13:09:35Z,"Decomposing multispectral face images into diffuse and specular shading
+  and biophysical parameters","['Sarah Alotaibi', 'William A. P. Smith']",arXiv:1902.06557
+http://arxiv.org/abs/1902.05402v1,2019-02-08T13:28:30Z,Spectral-Spatial Diffusion Geometry for Hyperspectral Image Clustering,"['James M. Murphy', 'Mauro Maggioni']",arXiv:1902.05402
+http://arxiv.org/abs/1901.01893v1,2019-01-07T16:11:46Z,"SMS MUSSELS: A Navigator-free Reconstruction for Simultaneous MultiSlice
+  Accelerated MultiShot Diffusion Weighted Imaging","['Merry Mani', 'Mathews Jacob', 'Graeme McKinnon', 'Baolian Yang', 'Brian Rutt', 'Adam Kerr', 'Vincent Magnotta']",arXiv:1901.01893
+http://arxiv.org/abs/1812.05954v2,2018-12-14T14:25:50Z,"Complex diffusion-weighted image estimation via matrix recovery under
+  general noise models","['Lucilio Cordero-Grande', 'Daan Christiaens', 'Jana Hutter', 'Anthony N. Price', 'Joseph V. Hajnal']",arXiv:1812.05954
+http://arxiv.org/abs/1811.12084v1,2018-11-29T11:54:54Z,Networks for Nonlinear Diffusion Problems in Imaging,"['Simon Arridge', 'Andreas Hauptmann']",arXiv:1811.12084
+http://arxiv.org/abs/1811.10907v2,2018-11-27T10:52:26Z,"Efficient Image Retrieval via Decoupling Diffusion into Online and
+  Offline Processing","['Fan Yang', 'Ryota Hinami', 'Yusuke Matsui', 'Steven Ly', ""Shin'ichi Satoh""]",arXiv:1811.10907
+http://arxiv.org/abs/1811.08483v1,2018-11-20T20:54:30Z,Direct Single Molecule Imaging of Enhanced Enzyme Diffusion,"['Mengqi Xu', 'Lyanne Valdez', 'Aysuman Sen', 'Jennifer L. Ross']",arXiv:1811.08483
+http://arxiv.org/abs/1811.05817v2,2018-11-14T14:44:42Z,"ProstateGAN: Mitigating Data Bias via Prostate Diffusion Imaging
+  Synthesis with Generative Adversarial Networks","['Xiaodan Hu', 'Audrey G. Chung', 'Paul Fieguth', 'Farzad Khalvati', 'Masoom A. Haider', 'Alexander Wong']",arXiv:1811.05817
+http://arxiv.org/abs/1811.05473v2,2018-11-13T16:03:01Z,"High-fidelity, high-isotropic resolution diffusion imaging through
+  gSlider acquisition with B1+ & T1 corrections and integrated ΔB0/Rx
+  shim array","['Congyu Liao', 'Jason Stockmann', 'Qiyuan Tian', 'Berkin Bilgic', 'Nicolas S. Arango', 'Mary Kate Manhard', 'William A. Grissom', 'Lawrence L. Wald', 'Kawin Setsompop']",arXiv:1811.05473
+http://arxiv.org/abs/1811.03620v2,2018-11-07T11:06:09Z,"Diffusion Kurtosis Imaging maps neural damage in the EAE model of
+  multiple sclerosis","['Andrey Chuhutin', 'Brian Hansen', 'Agnieszka Wlodarczyk', 'Trevor Owens', 'Noam Shemesh', 'Sune Nørhøj Jespersen']",arXiv:1811.03620
+http://arxiv.org/abs/1810.02683v3,2018-10-05T13:53:28Z,"Generating Diffusion MRI scalar maps from T1 weighted images using
+  generative adversarial networks","['Xuan Gu', 'Hans Knutsson', 'Markus Nilsson', 'Anders Eklund']",arXiv:1810.02683
+http://arxiv.org/abs/1808.08557v1,2018-08-26T14:25:35Z,Linearized Reconstruction for Diffuse Optical Spectroscopic Imaging,"['Habib Ammari', 'Bangti Jin', 'Wenlong Zhang']",arXiv:1808.08557
+http://arxiv.org/abs/1808.01517v1,2018-08-04T18:26:24Z,DELIMIT PyTorch - An extension for Deep Learning in Diffusion Imaging,"['Simon Koppers', 'Dorit Merhof']",arXiv:1808.01517
+http://arxiv.org/abs/1807.09637v2,2018-07-25T14:41:42Z,"Efficient sampling and robust 3D diffusion magnetic resonance imaging
+  signal reconstruction","['Alice P. Bates', 'Zubair Khalid', 'Jason D. McEwen', 'Rodney A. Kennedy', 'Alessandro Daducci', 'Erick J. Canales-Rodríguez']",arXiv:1807.09637
+http://arxiv.org/abs/1807.06277v1,2018-07-17T08:33:43Z,"Domain Adaptation for Deviating Acquisition Protocols in CNN-based
+  Lesion Classification on Diffusion-Weighted MR Images","['Jennifer Kamphenkel', 'Paul F. Jaeger', 'Sebastian Bickelhaupt', 'Frederik Bernd Laun', 'Wolfgang Lederer', 'Heidi Daniel', 'Tristan Anselm Kuder', 'Stefan Delorme', 'Heinz-Peter Schlemmer', 'Franziska Koenig', 'Klaus H. Maier-Hein']",arXiv:1807.06277
+http://arxiv.org/abs/1807.06216v1,2018-07-17T04:21:29Z,Learning Generic Diffusion Processes for Image Restoration,"['Peng Qiao', 'Yong Dou', 'Yunjin Chen', 'Wensen Feng']",arXiv:1807.06216
+http://arxiv.org/abs/1806.10419v1,2018-06-27T11:41:34Z,"MTBI Identification From Diffusion MR Images Using Bag of Adversarial
+  Visual Features","['Shervin Minaee', 'Yao Wang', 'Alp Aygar', 'Sohae Chung', 'Xiuyuan Wang', 'Yvonne W. Lui', 'Els Fieremans', 'Steven Flanagan', 'Joseph Rath']",arXiv:1806.10419
+http://arxiv.org/abs/1806.06956v1,2018-06-18T21:18:06Z,Diffusion generated methods for denoising target-valued images,"['Braxton Osting', 'Dong Wang']",arXiv:1806.06956
+http://arxiv.org/abs/1805.08587v5,2018-05-22T14:06:28Z,"Deep Feature Aggregation and Image Re-ranking with Heat Diffusion for
+  Image Retrieval","['Shanmin Pang', 'Jin Ma', 'Jianru Xue', 'Jihua Zhu', 'Vicente Ordonez']",arXiv:1805.08587
+http://arxiv.org/abs/1805.01561v1,2018-05-03T22:30:31Z,"Comparison between Grating Imaging and Transient Grating Techniques on
+  Measuring Carrier Diffusion in Semiconductor","['Ke Chen', 'Xianghai Meng', 'Feng He', 'Yongjian Zhou', 'Jihoon Jeong', 'Nathanial Sheehan', 'Seth R Bank', 'Yaguo Wang']",arXiv:1805.01561
+http://arxiv.org/abs/1803.09005v1,2018-03-23T22:49:04Z,"Quantitative characterization of the imaging limits of diffuse low-grade
+  oligodendrogliomas","['Chloé Gerin', 'Johan Pallud', 'Christophe Deroulers', 'Pascale Varlet', 'Catherine Oppenheim', 'François-Xavier Roux', 'Fabrice Chrétien', 'Stephen Randy Thomas', 'Basile Grammaticos', 'Mathilde Badoual']",arXiv:1803.09005
+http://arxiv.org/abs/1802.04353v1,2018-02-12T20:42:36Z,"A Data-Driven Approach to Extract Connectivity Structures from Diffusion
+  Tensor Imaging Data","['Yu Jin', 'Joseph F. JaJa', 'Rong Chen', 'Edward H. Herskovits']",arXiv:1802.04353
+http://arxiv.org/abs/1801.03800v1,2018-01-11T14:59:54Z,"Cortical-inspired image reconstruction via sub-Riemannian geometry and
+  hypoelliptic diffusion","['Ugo Boscain', 'Roman Chertovskih', 'Jean-Paul Gauthier', 'Dario Prandi', 'Alexey Remizov']",arXiv:1801.03800
+http://arxiv.org/abs/1801.03525v1,2018-01-10T19:32:48Z,"Accelerated Cardiac Diffusion Tensor Imaging Using Joint Low-Rank and
+  Sparsity Constraints","['Sen Ma', 'Christopher T. Nguyen', 'Anthony G. Christodoulou', 'Daniel Luthringer', 'Jon Kobashigawa', 'Sang-Eun Lee', 'Hyuk-Jae Chang', 'Debiao Li']",arXiv:1801.03525
+http://arxiv.org/abs/1712.00855v1,2017-12-03T23:42:10Z,EDIZ: An Error Diffusion Image Zooming Scheme,"['Soroush Saryazdi', 'Saman Saryazdi', 'Hossein Nezamabadi-pour']",arXiv:1712.00855
+http://arxiv.org/abs/1712.01697v1,2017-12-03T18:23:33Z,"Dialectical Multispectral Classification of Diffusion-Weighted Magnetic
+  Resonance Images as an Alternative to Apparent Diffusion Coefficients Maps to
+  Perform Anatomical Analysis","['Wellington Pinheiro dos Santos', 'Francisco Marcos de Assis', 'Ricardo Emmanuel de Souza', 'Plínio Batista dos Santos Filho', 'Fernando Buarque de Lima Neto']",arXiv:1712.01697
+http://arxiv.org/abs/1711.09703v1,2017-11-27T14:26:51Z,"Evaluation of Diffusion Weighted Imaging in the Context of
+  Multi-Parametric MRI of the Prostate in the assessment of suspected low
+  volume prostatic carcinoma","['Ioannis Papadopoulos', 'Jonathan Phillips', 'Rhodri Evans', 'Neil Fenn', 'Sophie Schermer']",arXiv:1711.09703
+http://arxiv.org/abs/1711.06810v1,2017-11-18T04:14:01Z,"Imaging through glass diffusers using densely connected convolutional
+  networks","['Shuai Li', 'Mo Deng', 'Justin Lee', 'Ayan Sinha', 'George Barbastathis']",arXiv:1711.06810
+http://arxiv.org/abs/1710.00798v2,2017-10-02T17:11:26Z,"Measure-Valued Variational Models with Applications to
+  Diffusion-Weighted Imaging","['Thomas Vogt', 'Jan Lellmann']",arXiv:1710.00798
+http://arxiv.org/abs/1709.04147v1,2017-09-13T05:57:11Z,"Electrochemical Impedance Imaging via the Distribution of Diffusion
+  Times","['Juhyun Song', 'Martin Z. Bazant']",arXiv:1709.04147
+http://arxiv.org/abs/1708.00013v2,2017-07-31T18:00:09Z,Deep Imaging of the HCG 95 Field.I.Ultra-diffuse Galaxies,"['Dongdong Shi', 'Xianzhong Zheng', 'Haibin Zhao', 'Zhizheng Pan', 'Bin Li', 'Hu Zou', 'Xu Zhou', 'Kexin Guo', 'Fangxia An', 'Yubin Li']",arXiv:1708.00013
+http://arxiv.org/abs/1707.06953v1,2017-07-21T16:04:38Z,"Eigenvalues of random matrices with isotropic Gaussian noise and the
+  design of Diffusion Tensor Imaging experiments","['Dario Gasbarra', 'Sinisa Pajevic', 'Peter J. Basser']",arXiv:1707.06953
+http://arxiv.org/abs/1707.06396v1,2017-07-20T07:04:42Z,"A new nonlocal nonlinear diffusion equation for image denoising and data
+  analysis","['Giacomo Aletti', 'Monica Moroni', 'Giovanni Naldi']",arXiv:1707.06396
+http://arxiv.org/abs/1707.05726v1,2017-07-18T16:14:53Z,"Halftone Image Watermarking by Content Aware Double-sided Embedding
+  Error Diffusion","['Yuanfang Guo', 'Oscar C. Au', 'Rui Wang', 'Lu Fang', 'Xiaochun Cao']",arXiv:1707.05726
+http://arxiv.org/abs/1705.09275v4,2017-05-25T17:46:52Z,"Who Will Share My Image? Predicting the Content Diffusion Path in Online
+  Social Networks","['Wenjian Hu', 'Krishna Kumar Singh', 'Fanyi Xiao', 'Jinyoung Han', 'Chen-Nee Chuah', 'Yong Jae Lee']",arXiv:1705.09275
+http://arxiv.org/abs/1704.07961v5,2017-04-26T03:11:21Z,"Unsupervised Clustering and Active Learning of Hyperspectral Images with
+  Nonlinear Diffusion","['James M. Murphy', 'Mauro Maggioni']",arXiv:1704.07961
+http://arxiv.org/abs/1704.00494v1,2017-04-03T09:37:02Z,"The eddy current distortion in the multiband diffusion images: diagnosis
+  and correction",['Jiancheng Zhuang'],arXiv:1704.00494
+http://arxiv.org/abs/1703.02487v2,2017-03-07T17:39:37Z,On a cross-diffusion system arising in image denosing,"['Gonzalo Galiano', 'Julián Velasco']",arXiv:1703.02487
+http://arxiv.org/abs/1702.07472v1,2017-02-24T06:12:55Z,Learning Non-local Image Diffusion for Image Denoising,"['Peng Qiao', 'Yong Dou', 'Wensen Feng', 'Yunjin Chen']",arXiv:1702.07472
+http://arxiv.org/abs/1702.05941v1,2017-02-20T12:05:30Z,"SurvivalNet: Predicting patient survival from diffusion weighted
+  magnetic resonance images using cascaded fully convolutional and 3D
+  convolutional neural networks","['Patrick Ferdinand Christ', 'Florian Ettlinger', 'Georgios Kaissis', 'Sebastian Schlecht', 'Freba Ahmaddy', 'Felix Grün', 'Alexander Valentinitsch', 'Seyed-Ahmad Ahmadi', 'Rickmer Braren', 'Bjoern Menze']",arXiv:1702.05941
+http://arxiv.org/abs/1702.05839v1,2017-02-20T02:34:26Z,Progressively Diffused Networks for Semantic Image Segmentation,"['Ruimao Zhang', 'Wei Yang', 'Zhanglin Peng', 'Xiaogang Wang', 'Liang Lin']",arXiv:1702.05839
+http://arxiv.org/abs/1702.05187v1,2017-02-16T23:47:21Z,"Determining anisotropic conductivity using diffusion tensor imaging data
+  in magneto-acoustic tomography with magnetic induction","['Habib Ammari', 'Lingyun Qiu', 'Fadil Santosa', 'Wenlong Zhang']",arXiv:1702.05187
+http://arxiv.org/abs/1701.02462v1,2017-01-10T07:56:22Z,"Imaging of diffuse HI absorption structure in the SSA22 proto-cluster
+  region at z = 3.1","['Ken Mawatari', 'Akio K. Inoue', 'Toru Yamada', 'Tomoki Hayashino', 'Takuya Otsuka', 'Yuichi Matsuda', 'Hideki Umehata', 'Masami Ouchi', 'Shiro Mukae']",arXiv:1701.02462
+http://arxiv.org/abs/1611.08163v1,2016-11-24T12:33:05Z,"Diffusion-Weighted MR imaging: Clinical applications of kurtosis
+  analysis to prostate cancer","['Andrea Barucci', 'Roberto Carpi', 'Marco Esposito', 'Maristella Olmastroni', 'Giovanna Zatelli']",arXiv:1611.08163
+http://arxiv.org/abs/1611.09202v1,2016-11-23T07:03:37Z,"A variational model with fractional-order regularization term arising in
+  registration of diffusion tensor image",['Huan Han'],arXiv:1611.09202
+http://arxiv.org/abs/1611.07316v1,2016-11-22T14:33:03Z,A variational problem arising in registration of diffusion tensor images,"['Huan Han', 'Huan-Song Zhou']",arXiv:1611.07316
+http://arxiv.org/abs/1611.06826v2,2016-11-21T15:09:15Z,"Diffusion and Perfusion Magnetic Resonance Imaging:Fundamentals and
+  Advances",['Sanam Assili'],arXiv:1611.06826
+http://arxiv.org/abs/1611.02869v1,2016-11-09T09:54:47Z,"Gaussian process regression can turn non-uniform and undersampled
+  diffusion MRI data into diffusion spectrum imaging","['Jens Sjölund', 'Anders Eklund', 'Evren Özarslan', 'Hans Knutsson']",arXiv:1611.02869
+http://arxiv.org/abs/1610.02783v2,2016-10-10T07:01:33Z,"White matter biomarkers from fast protocols using axially symmetric
+  diffusion kurtosis imaging","['Brian Hansen', 'Ahmad R. Khan', 'Noam Shemesh', 'Torben E. Lund', 'Ryan Sangill', 'Simon F. Eskildsen', 'Leif Østergaard', 'Sune N. Jespersen']",arXiv:1610.02783
+http://arxiv.org/abs/1609.06585v1,2016-09-21T14:42:47Z,Image Denoising via Multi-scale Nonlinear Diffusion Models,"['Wensen Feng', 'Peng Qiao', 'Xuanyang Xi', 'Yunjin Chen']",arXiv:1609.06585
+http://arxiv.org/abs/1608.08542v3,2016-08-30T16:18:06Z,"Design and Characterisation of Tissue-Mimicking Gel Phantoms for
+  Diffusion Kurtosis Imaging","['Ziyafer Gizem Portakal', 'Sophie Shermer', 'Emiliano Spezi', 'Teresa Perrett', 'Nina Tuncel', 'Jonathan Phillips']",arXiv:1608.08542
+http://arxiv.org/abs/1606.07970v1,2016-06-25T21:28:08Z,"A Tucker decomposition process for probabilistic modeling of diffusion
+  magnetic resonance imaging","['Hernan Dario Vargas Cardona', 'Mauricio A. Alvarez', 'Alvaro A. Orozco']",arXiv:1606.07970
+http://arxiv.org/abs/1606.05093v1,2016-06-16T08:38:23Z,"Solving reaction-diffusion equations on evolving surfaces defined by
+  biological image data","['Till Bretschneider', 'Cheng-Jin Du', 'Charles M. Elliott', 'Thomas Ranner', 'Bjorn Stinner']",arXiv:1606.05093
+http://arxiv.org/abs/1605.04834v1,2016-05-16T16:45:04Z,"Holographic imaging through a scattering medium by diffuser-aided
+  statistical averaging","['Michael J. Purcell', 'Manish Kumar', 'Stephen C. Rand', 'Vasudevan Lakshminarayanan']",arXiv:1605.04834
+http://arxiv.org/abs/1605.03721v2,2016-05-12T08:25:27Z,Cross-diffusion systems for image processing: II. The nonlinear case,"['A. Araújo', 'S. Barbeiro', 'E. Cuesta', 'A. Durán']",arXiv:1605.03721
+http://arxiv.org/abs/1605.02923v3,2016-05-10T10:18:22Z,Cross-diffusion systems for image processing: I. The linear case,"['A. Araujo', 'S. Barbeiro', 'E. Cuesta', 'A. Duran']",arXiv:1605.02923
+http://arxiv.org/abs/1604.02319v2,2016-04-08T12:05:10Z,"Wellposedness of a nonlocal nonlinear diffusion equation of image
+  processing","['Patrick Guidotti', 'Yuanzhen Shao']",arXiv:1604.02319
+http://arxiv.org/abs/1604.04141v1,2016-04-08T00:04:52Z,On a determinantal inequality arising from diffusion tensor imaging,['Minghua Lin'],arXiv:1604.04141
+http://arxiv.org/abs/1603.06337v1,2016-03-21T06:47:37Z,"On time adaptive critical variable exponent vectorial diffusion flows
+  and their applications in image processing","['V. B. Surya Prasath', 'D. Vorotnikov']",arXiv:1603.06337
+http://arxiv.org/abs/1601.00266v1,2016-01-03T09:56:47Z,Detecting Diffuse Sources in Astronomical Images,"['T. Butler-Yeoman', 'M. Frean', 'C. P. Hollitt', 'D. W. Hogg', 'M. Johnston-Hollitt']",arXiv:1601.00266
+http://arxiv.org/abs/1512.09263v1,2015-12-31T12:02:00Z,On the security of a class of diffusion mechanisms for image encryption,"['Leo Yu Zhang', 'Yuansheng Liu', 'Kwok-Wo Wong', 'Fabio Pareschi', 'Yushu Zhang', 'Riccardo Rovatti', 'Gianluca Setti']",arXiv:1512.09263
+http://arxiv.org/abs/1512.04636v2,2015-12-15T03:44:28Z,"Noise-Compensated, Bias-Corrected Diffusion Weighted Endorectal Magnetic
+  Resonance Imaging via a Stochastically Fully-Connected Joint Conditional
+  Random Field Model","['Ameneh Boroomand', 'Mohammad Javad Shafiee', 'Farzad Khalvati', 'Masoom A. Haider', 'Alexander Wong']",arXiv:1512.04636
+http://arxiv.org/abs/1512.02602v3,2015-12-08T19:53:53Z,Accurately Predicting Functional Connectivity from Diffusion Imaging,"['Cassiano O. Becker', 'Sergio Pequito', 'George J. Pappas', 'Michael B. Miller', 'Scott T. Grafton', 'Danielle S. Bassett', 'Victor M. Preciado']",arXiv:1512.02602
+http://arxiv.org/abs/1510.02934v2,2015-10-10T13:54:07Z,"Tract Orientation and Angular Dispersion Deviation Indicator (TOADDI): A
+  framework for single-subject analysis in diffusion tensor imaging","['Cheng Guan Koay', 'Ping-Hong Yeh', 'John M. Ollinger', 'M. Okan İrfanoğlu', 'Carlo Pierpaoli', 'Peter J. Basser', 'Terrence R. Oakes', 'Gerard Riedy']",arXiv:1510.02934
+http://arxiv.org/abs/1509.02223v2,2015-09-07T23:15:51Z,Diffusion tensor imaging with deterministic error bounds,"['Artur Gorokh', 'Yury Korolev', 'Tuomo Valkonen']",arXiv:1509.02223
+http://arxiv.org/abs/1508.02848v2,2015-08-12T08:40:48Z,"Trainable Nonlinear Reaction Diffusion: A Flexible Framework for Fast
+  and Effective Image Restoration","['Yunjin Chen', 'Thomas Pock']",arXiv:1508.02848
+http://arxiv.org/abs/1507.06780v1,2015-07-24T08:43:23Z,"An improved EM algorithm for solving MLE in constrained diffusion
+  kurtosis imaging of human brain",['Jia Liu'],arXiv:1507.06780
+http://arxiv.org/abs/1506.03873v1,2015-06-11T23:49:21Z,"High-Resolution Images of Diffuse Neutral Clouds in the Milky Way. I.
+  Observations, Imaging, and Basic Cloud Properties","['Yurii Pidopryhora', 'Felix J. Lockman', 'John M. Dickey', 'Michael P. Rupen']",arXiv:1506.03873
+http://arxiv.org/abs/1505.07170v1,2015-05-27T01:21:37Z,"Sparse multiway decomposition for analysis and modeling of diffusion
+  imaging and tractography","['Cesar F. Caiafa', 'Franco Pestilli']",arXiv:1505.07170
+http://arxiv.org/abs/1505.00866v1,2015-05-05T02:14:15Z,"Adaptive diffusion constrained total variation scheme with application
+  to `cartoon + texture + edge' image decomposition","['Juan C. Moreno', 'V. B. Surya Prasath', 'D. Vorotnikov', 'H. Proenca', 'K. Palaniappan']",arXiv:1505.00866
+http://arxiv.org/abs/1504.01800v2,2015-04-08T02:02:55Z,"A Multicomponent Approach to Nonrigid Registration of Diffusion Tensor
+  Images","['Mohammed Khader', 'A. Ben Hamza']",arXiv:1504.01800
+http://arxiv.org/abs/1503.06638v1,2015-03-23T14:02:08Z,"Chosen-plaintext attack of an image encryption scheme based on modified
+  permutation-diffusion structure","['Yuansheng Liu', 'Leo Yu Zhang', 'Jia Wang', 'Yushu Zhang', 'Kwok-wo Wong']",arXiv:1503.06638
+http://arxiv.org/abs/1503.05768v2,2015-03-19T14:01:42Z,"On learning optimized reaction diffusion processes for effective image
+  restoration","['Yunjin Chen', 'Wei Yu', 'Thomas Pock']",arXiv:1503.05768
+http://arxiv.org/abs/1502.07331v4,2015-02-25T20:36:08Z,Highly corrupted image inpainting through hypoelliptic diffusion,"['Ugo Boscain', 'Roman Chertovskih', 'Jean-Paul Gauthier', 'Dario Prandi', 'Alexey Remizov']",arXiv:1502.07331
+http://arxiv.org/abs/1502.07099v1,2015-02-25T09:46:25Z,"An Optimal Dimensionality Sampling Scheme on the Sphere for Antipodal
+  Signals In Diffusion Magnetic Resonance Imaging","['Alice P. Bates', 'Zubair Khalid', 'Rodney A. Kennedy']",arXiv:1502.07099
+http://arxiv.org/abs/1502.07044v1,2015-02-25T03:57:10Z,"Mapping the energy and diffusion landscapes of membrane proteins at the
+  cell surface using high-density single-molecule imaging and Bayesian
+  inference: application to the multi-scale dynamics of glycine receptors in
+  the neuronal membrane","['Jean-Baptiste Masson', 'Patrice Dionne', 'Charlotte Salvatico', 'Marianne Renner', 'Christian G. Specht', 'Antoine Triller', 'Maxime Dahan']",arXiv:1502.07044
+http://arxiv.org/abs/1502.06902v2,2015-02-18T20:04:36Z,"A Determinantal Inequality for the Geometric Mean with an Application in
+  Diffusion Tensor Imaging",['Koenraad M. R. Audenaert'],arXiv:1502.06902
+http://arxiv.org/abs/1502.04967v1,2015-02-17T17:33:15Z,Robust diffusion imaging framework for clinical studies,"['Ivan I. Maximov', 'Farida Grinberg', 'Irene Neuner', 'N. Jon Shah']",arXiv:1502.04967
+http://arxiv.org/abs/1501.04420v1,2015-01-19T08:48:45Z,"Longitudinal high-dimensional principal components analysis with
+  application to diffusion tensor imaging of multiple sclerosis","['Vadim Zipunnikov', 'Sonja Greven', 'Haochang Shou', 'Brian S. Caffo', 'Daniel S. Reich', 'Ciprian M. Crainiceanu']",arXiv:1501.04420
+http://arxiv.org/abs/1501.03320v1,2015-01-14T11:24:02Z,"Image enhancement in intensity projected multichannel MRI using
+  spatially adaptive directional anisotropic diffusion","['P. K. Akshara', 'J. S. Paul']",arXiv:1501.03320
+http://arxiv.org/abs/1412.3352v1,2014-12-08T10:38:28Z,Web image annotation by diffusion maps manifold learning algorithm,['Neda Pourali'],arXiv:1412.3352
+http://arxiv.org/abs/1411.6079v1,2014-11-22T04:27:14Z,"Joint Quantization and Diffusion for Compressed Sensing Measurements of
+  Natural Images","['Leo Yu Zhang', 'Kwok-Wo Wong', 'Yushu Zhang', 'Qiuzhen Lin']",arXiv:1411.6079
+http://arxiv.org/abs/1411.3872v2,2014-11-14T11:36:17Z,"Modelling Dynamical Fluorescent Micro Thermal Imaging of the Heat
+  Diffusion in the La5Ca9Cu24O41 Spin Ladder Compound","['E. I. Khadikova', 'M. Montagnese', 'F. de Haan', 'P. H. M. van Loosdrecht']",arXiv:1411.3872
+http://arxiv.org/abs/1410.3591v1,2014-10-14T07:13:16Z,Nonlinear Diffusion equations in image processing,['Viorel Barbu'],arXiv:1410.3591
+http://arxiv.org/abs/1409.6498v2,2014-09-23T11:45:19Z,"Unified Heat Kernel Regression for Diffusion, Kernel Smoothing and
+  Wavelets on Manifolds and Its Application to Mandible Growth Modeling in CT
+  Images","['Moo K. Chung', 'Anqi Qiu', 'Seongho Seo', 'Houri K. Vorperian']",arXiv:1409.6498
+http://arxiv.org/abs/1409.2839v1,2014-09-09T18:41:48Z,"Increasing the Analytical Accessibility of Multishell and Diffusion
+  Spectrum Imaging Data Using Generalized Q-Sampling Conversion","['Fang-Cheng Yeh', 'Timothy D. Verstynen']",arXiv:1409.2839
+http://arxiv.org/abs/1409.2035v3,2014-09-06T17:21:09Z,"Gradient-based quantitative image reconstruction in ultrasound-modulated
+  optical tomography: first harmonic measurement type in a linearised diffusion
+  formulation","['Samuel Powell', 'Simon R. Arridge', 'Terence S. Leung']",arXiv:1409.2035
+http://arxiv.org/abs/1405.5260v1,2014-05-20T23:12:25Z,"Predicting age of human subjects based on structural connectivity from
+  diffusion tensor imaging","['Cheol E. Han', 'Luis R. Peraza', 'John-Paul Taylor', 'Marcus Kaiser']",arXiv:1405.5260
+http://arxiv.org/abs/1404.0723v1,2014-04-02T22:25:47Z,"Image Segmentation with Eigenfunctions of an Anisotropic Diffusion
+  Operator","['Jingyue Wang', 'Weizhang Huang']",arXiv:1404.0723
+http://arxiv.org/abs/1404.0240v1,2014-04-01T13:56:19Z,"Preferential Detachment During Human Brain Development: Age- and
+  Sex-Specific Structural Connectivity in Diffusion Tensor Imaging (DTI) Data","['Sol Lim', 'Cheol E. Han', 'Peter J. Uhlhaas', 'Marcus Kaiser']",arXiv:1404.0240
+http://arxiv.org/abs/1403.6626v1,2014-03-26T10:56:12Z,"Security Improvement of an Image Encryption Based on
+  mPixel-Chaotic-Shuffle and Pixel-Chaotic-Diffusion","['Musheer Ahmad', 'Hamed D. Alsharari', 'Munazza Nizam']",arXiv:1403.6626
+http://arxiv.org/abs/1403.5065v1,2014-03-20T08:37:14Z,"Data augmentation in Rician noise model and Bayesian Diffusion Tensor
+  Imaging","['Dario Gasbarra', 'Jia Liu', 'Juha Railavo']",arXiv:1403.5065
+http://arxiv.org/abs/1403.3320v7,2014-03-13T16:35:24Z,"Numerical Approaches for Linear Left-invariant Diffusions on SE(2),
+  their Comparison to Exact Solutions, and their Applications in Retinal
+  Imaging","['Jiong Zhang', 'Remco Duits', 'Gonzalo Sanguinetti', 'Bart M. ter Haar Romeny']",arXiv:1403.3320
+http://arxiv.org/abs/1401.6629v1,2014-01-26T08:43:46Z,"The Origin of the Galactic Center Diffuse X-ray Emission Investigated by
+  Near-infrared Imaging and Polarimetric Observations","['Shogo Nishiyama', 'Kazuki Yasui', 'Tetsuya Nagata', 'Tatsuhito Yoshikawa', 'Hideki Uchiyama', 'Motohide Tamura']",arXiv:1401.6629
+http://arxiv.org/abs/1310.6092v1,2013-10-23T02:05:02Z,"A Ray-based Approach for Boundary Estimation of Fiber Bundles Derived
+  from Diffusion Tensor Imaging","['Miriam H. A. Bauer', 'Sebastiano Barbieri', 'Jan Klein', 'Jan Egger', 'Daniela Kuhnt', 'Bernd Freisleben', 'Horst K. Hahn', 'Christopher Nimsky']",arXiv:1310.6092
+http://arxiv.org/abs/1310.3233v1,2013-10-10T00:32:01Z,"Bayesian Estimation of White Matter Atlas from High Angular Resolution
+  Diffusion Imaging","['Jia Du', 'Alvina Goh', 'Anqi Qiu']",arXiv:1310.3233
+http://arxiv.org/abs/1309.6379v1,2013-09-25T01:57:50Z,"Diffeomorphic Metric Mapping and Probabilistic Atlas Generation of
+  Hybrid Diffusion Imaging based on BFOR Signal Basis","['Jia Du', 'A. Pasha Hosseinbor', 'Moo K. Chung', 'Barbara B. Bendlin', 'Gaurav Suryawanshi', 'Andrew L. Alexander', 'Anqi Qiu']",arXiv:1309.6379
+http://arxiv.org/abs/1307.4867v1,2013-07-18T08:46:03Z,Local time in diffusive media and applications to imaging,['Vincent Rossetto'],arXiv:1307.4867
+http://arxiv.org/abs/1307.2818v1,2013-07-10T15:07:26Z,"Anisotropic Diffusion for Details Enhancement in Multi-Exposure Image
+  Fusion","['Harbinder Singh', 'Vinay Kumar', 'Sunil Bhooshan']",arXiv:1307.2818
+http://arxiv.org/abs/1307.1966v1,2013-07-08T07:24:47Z,"Mathematical modeling of fluorescence diffuse optical imaging of cell
+  membrane potential changes","['Habib Ammari', 'Josselin Garnier', 'Laure Giovangigli']",arXiv:1307.1966
+http://arxiv.org/abs/1305.7367v2,2013-05-31T11:53:02Z,"Diffusion imaging with stimulated echoes: signal models and experiment
+  design","['Daniel C. Alexander', 'Tim B. Dyrby']",arXiv:1305.7367
+http://arxiv.org/abs/1305.2221v1,2013-05-09T22:10:36Z,Repairing and Inpainting Damaged Images using Diffusion Tensor,"['Faouzi Benzarti', 'Hamid Amiri']",arXiv:1305.2221
+http://arxiv.org/abs/1305.1570v1,2013-05-07T16:13:13Z,NMR-Based Diffusion Lattice Imaging,"['Frederik Bernd Laun', 'Tristan Anselm Kuder']",arXiv:1305.1570
+http://arxiv.org/abs/1304.5587v2,2013-04-20T05:05:53Z,Color image denoising by chromatic edges based vector valued diffusion,"['V. B. Surya Prasath', 'Juan C. Moreno', 'K. Palaniappan']",arXiv:1304.5587
+http://arxiv.org/abs/1304.2062v3,2013-04-07T21:20:09Z,Hypoelliptic diffusion and human vision: a semi-discrete new twist,"['Ugo Boscain', 'Roman Chertovskih', 'Jean-Paul Gauthier', 'Alexey Remizov']",arXiv:1304.2062
+http://arxiv.org/abs/1212.1507v1,2012-12-07T00:05:11Z,"Diffusion Pore Imaging by Hyperpolarized Xenon-129 Nuclear Magnetic
+  Resonance","['Tristan Anselm Kuder', 'Peter Bachert', 'Johannes Windschuh', 'Frederik Bernd Laun']",arXiv:1212.1507
+http://arxiv.org/abs/1208.0768v2,2012-08-03T15:09:08Z,Diffusion pore imaging with generalized temporal gradient profiles,"['Frederik Bernd Laun', 'Tristan Anselm Kuder']",arXiv:1208.0768
+http://arxiv.org/abs/1207.0677v1,2012-07-03T13:52:19Z,"Local Water Diffusion Phenomenon Clustering From High Angular Resolution
+  Diffusion Imaging (HARDI)","['Romain Giot', 'Christophe Charrier', 'Maxime Descoteaux']",arXiv:1207.0677
+http://arxiv.org/abs/1205.1793v1,2012-05-08T19:52:33Z,NMR Based Diffusion Pore Imaging by Double Wave Vector Measurements,"['Tristan Anselm Kuder', 'Frederik Bernd Laun']",arXiv:1205.1793
+http://arxiv.org/abs/1202.6523v1,2012-02-29T12:07:18Z,Imaging diffuse clouds: Bright and dark gas mapped in CO,"['H. S. Liszt', 'J. Pety']",arXiv:1202.6523
+http://arxiv.org/abs/1201.4483v1,2012-01-21T15:34:37Z,"A new vision on giant planet interiors: the impact of double diffusive
+  convection","['Jérémy Leconte', 'Gilles Chabrier']",arXiv:1201.4483
+http://arxiv.org/abs/1201.4139v1,2012-01-19T18:39:41Z,"Image decomposition with anisotropic diffusion applied to leaf-texture
+  analysis","['Bruno Brandoli Machado', 'Wesley Nunes Gonçalves', 'Odemir Martinez Bruno']",arXiv:1201.4139
+http://arxiv.org/abs/1201.2574v1,2012-01-12T14:25:39Z,Imaging ambipolar diffusion of photocarriers in GaAs thin films,"['Daniel Paget', 'Fabian Cadiz', 'Alistair Rowe', 'Francois Moreau', 'Steve Arscott', 'Emilien Peytavit']",arXiv:1201.2574
+http://arxiv.org/abs/1109.1921v1,2011-09-09T07:38:54Z,"Magneto-optical imaging and transport properties of FeSe superconducting
+  tapes prepared by diffusion method","['Q. P. Ding', 'S. Mohan', 'Y. Tsuchiya', 'T. Taen', 'Y. Nakajima', 'T. Tamegai']",arXiv:1109.1921
+http://arxiv.org/abs/1107.4763v1,2011-07-24T15:34:27Z,"Diffeomorphic Metric Mapping of High Angular Resolution Diffusion
+  Imaging based on Riemannian Structure of Orientation Distribution Functions","['Jia Du', 'Alvina Goh', 'Anqi Qiu']",arXiv:1107.4763
+http://arxiv.org/abs/1107.1927v1,2011-07-11T02:26:52Z,"Single-image diffusion coefficient measurements of proteins in free
+  solution","['Shannon Kian Zareh', 'Michael C. DeSantis', 'Jonathan Kessler', 'Je-Luen Li', 'Y. M. Wang']",arXiv:1107.1927
+http://arxiv.org/abs/1104.1556v3,2011-04-08T12:03:16Z,Benchmarking the Quality of Diffusion-Weighted Images,"['Jan Klein', 'Sebastiano Barbieri', 'Miriam H. A. Bauer', 'Christopher Nimsky', 'Horst K. Hahn']",arXiv:1104.1556
+http://arxiv.org/abs/1103.3792v1,2011-03-19T16:29:04Z,Image Encryption Based on Diffusion and Multiple Chaotic Maps,"['G. A. Sathishkumar', 'Dr. K. Bhoopathy bagan', 'Dr. N. Sriraam']",arXiv:1103.3792
+http://arxiv.org/abs/1011.3801v2,2010-11-16T20:01:04Z,"Nonparametric tests of structure for high angular resolution diffusion
+  imaging in Q-space","['Sofia C. Olhede', 'Brandon Whitcher']",arXiv:1011.3801
+http://arxiv.org/abs/1009.6037v1,2010-09-30T04:39:24Z,Real-Time Imaging of K atoms on Graphite: Interactions and Diffusion,"['J. Renard', 'M. B. Lundeberg', 'J. A. Folk', 'Y. Pennec']",arXiv:1009.6037
+http://arxiv.org/abs/1009.3045v1,2010-09-15T21:32:36Z,"Power Euclidean metrics for covariance matrices with application to
+  diffusion tensor imaging","['Ian L. Dryden', 'Xavier Pennec', 'Jean-Marc Peyrat']",arXiv:1009.3045
+http://arxiv.org/abs/1008.4121v1,2010-08-24T19:36:02Z,"Engineering Quantum States, Nonlinear Measurements, and Anomalous
+  Diffusion by Imaging","['Kurt Jacobs', 'Daniel Steck']",arXiv:1008.4121
+http://arxiv.org/abs/1008.2255v1,2010-08-13T06:41:13Z,"Search for diffuse cosmic gamma-ray flux using Fractal and Wavelet
+  analysis from Galactic region using single imaging Cerenkov telescopes",['C. K. Bhat'],arXiv:1008.2255
+http://arxiv.org/abs/1007.0833v1,2010-07-06T08:39:19Z,Imaging charge and spin diffusion of minority carriers in GaAs,"['I. Favorskiy', 'D. Vu', 'E. Peytavit', 'S. Arscott', 'D. Paget', 'A. C. H. Rowe']",arXiv:1007.0833
+http://arxiv.org/abs/1006.3990v2,2010-06-21T05:56:24Z,Imaging nonequilibrium atomic vibrations with x-ray diffuse scattering,"['M. Trigo', 'Y. M Sheu', 'J. Chen', 'V. H. Vishwanath', 'T. Graber', 'R. Henning', 'D. A. Reis']",arXiv:1006.3990
+http://arxiv.org/abs/1006.3735v6,2010-06-18T15:55:49Z,Anthropomorphic image reconstruction via hypoelliptic diffusion,"['Ugo Boscain', 'Jean Duplaix', 'Jean-Paul Gauthier', 'Francesco Rossi']",arXiv:1006.3735
+http://arxiv.org/abs/0912.3050v2,2009-12-16T03:52:35Z,"Breaking a modified substitution-diffusion image cipher based on chaotic
+  standard and logistic maps","['Chengqing Li', 'Shujun Li', 'Kwok-Tung Lo']",arXiv:0912.3050
+http://arxiv.org/abs/0910.1656v1,2009-10-09T06:23:19Z,"Non-Euclidean statistics for covariance matrices, with applications to
+  diffusion tensor imaging","['Ian L. Dryden', 'Alexey Koloydenko', 'Diwei Zhou']",arXiv:0910.1656
+http://arxiv.org/abs/0907.0821v1,2009-07-05T03:40:38Z,"Breaking a new substitution-diffusion based image cipher using chaotic
+  standard and logistic maps","['Chengqing Li', 'Shujun Li', 'Kwok-Tung Lo']",arXiv:0907.0821
+http://arxiv.org/abs/0901.1111v1,2009-01-08T19:22:50Z,"Imaging galactic diffuse clouds: CO emission, reddening and turbulent
+  flow in the gas around Zeta Oph","['H. S. Liszt', 'J. Pety', 'K. Tachihara']",arXiv:0901.1111
+http://arxiv.org/abs/0808.3722v1,2008-08-27T19:54:55Z,"Imaging galactic diffuse gas: Bright, turbulent CO surrounding the line
+  of sight to NRAO150","['Jérôme Pety', 'Robert Lucas', 'Harvey S. Liszt']",arXiv:0808.3722
+http://arxiv.org/abs/0710.3509v1,2007-10-18T13:46:57Z,"Integral curves of noisy vector fields and statistical problems in
+  diffusion tensor imaging: nonparametric kernel estimation and hypotheses
+  testing","['Vladimir Koltchinskii', 'Lyudmila Sakhanenko', 'Songhe Cai']",arXiv:0710.3509
+http://arxiv.org/abs/astro-ph/0703093v2,2007-03-05T21:59:36Z,"Improving the speckle noise attenuation of simultaneous spectral
+  differential imaging with a focal plane holographic diffuser","['David Lafrenière', 'René Doyon', 'Daniel Nadeau Étienne Artigau', 'Christian Marois', 'Mathilde Beaulieu']",arXiv:astro-ph/0703093
+http://arxiv.org/abs/physics/0603180v1,2006-03-22T12:29:56Z,"Time-resolved diffusing wave spectroscopy applied to dynamic
+  heterogeneity imaging","['Monia Cheikh', 'Ha Lien Nghiem', 'Dominique Ettori', 'Eric Tinet', 'Sigrid Avrillier', 'Jean-Michel Tualle']",arXiv:physics/0603180
+http://arxiv.org/abs/astro-ph/0509225v1,2005-09-08T17:55:12Z,"Imaging Fabry-Perot Spectroscopy of NGC 5775: Kinematics of the Diffuse
+  Ionized Gas Halo","['G. H. Heald', 'R. J. Rand', 'R. A. Benjamin', 'J. A. Collins', 'J. Bland-Hawthorn']",arXiv:astro-ph/0509225
+http://arxiv.org/abs/astro-ph/0402456v1,2004-02-19T09:39:18Z,"Deep SAURON Spectral-Imaging of the diffuse Lyman-alpha halo LAB1 in
+  SSA22","['Richard Bower', 'S. L. Morris', 'R. Bacon', 'R. J. Wilman', 'M. Sullivan', 'S. C. Chapman', 'R. L. Davies', 'P. T. de Zeeuw', 'E. Emsellem']",arXiv:astro-ph/0402456
+http://arxiv.org/abs/astro-ph/0402087v2,2004-02-03T23:11:07Z,Diffuse X-ray Emission in a Deep Chandra Image of the Galactic Center,"['M. P. Muno', 'F. K. Baganoff', 'M. W. Bautz', 'E. D. Feigelson', 'G. P. Garmire', 'M. R. Morris', 'S. Park', 'G. R. Ricker', 'L. K. Townsley']",arXiv:astro-ph/0402087
+http://arxiv.org/abs/math/0302349v1,2003-02-27T20:43:29Z,Nonlinear Diffusion and Image Contour Enhancement,"['G. I. Barenblatt', 'J. L. Vazquez']",arXiv:math/0302349
+http://arxiv.org/abs/astro-ph/0107449v1,2001-07-23T23:28:00Z,"Far Ultraviolet and H-alpha Imaging of Nearby Spirals: The OB Stellar
+  Population in the Diffuse Ionized Gas","['Charles G. Hoopes', 'Rene A. M. Walterbos', 'Gregory D. Bothun']",arXiv:astro-ph/0107449
+http://arxiv.org/abs/astro-ph/0004147v1,2000-04-11T16:47:46Z,"Measurements of the Diffuse Ultraviolet Background and the Terrestrial
+  Airglow with the Space Telescope Imaging Spectrograph","['Thomas M. Brown', 'Randy A. Kimble', 'Henry C. Ferguson', 'Jonathan P. Gardner', 'Nicholas R. Collins', 'Robert S. Hill']",arXiv:astro-ph/0004147
+http://arxiv.org/abs/astro-ph/9812164v1,1998-12-08T23:11:36Z,"Radio polarimetric imaging of the interstellar medium: magnetic field
+  and diffuse ionized gas structure near the W3/W4/W5/HB3 complex","['A. D. Gray', 'T. L. Landecker', 'P. E. Dewdney', 'A. R. Taylor', 'A. G. Willis', 'M. Normandeau']",arXiv:astro-ph/9812164
