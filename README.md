@@ -34,14 +34,6 @@ Code: https://colab.research.google.com/drive/1dMI8t8eZLEA9uq4fS1VpvdAMv8D_k2u1?
 
 Credit to teticio for the original codebase https://github.com/teticio/audio-diffusion.
 
-## Step 5: Evaluation of Synthetic Spectrograms. 
-
-The code to compute power spectra density plots can be found at: <br>
-Todo---
-
-The code to compute and plot pairwise multiscale structural similarity (MS-SSIM): <br>
-Todo---
-
 # Diffusion Model Literature Search 
 
 This notebook will search arxiv for 
